@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulador Pruebas INMLCF 2026</title>
+<link rel="stylesheet" href="styles.css">
+<script src="data/banco.js"></script>
+<script src="lib/pdf.min.js"></script>
+<script src="lib/mammoth.browser.min.js"></script>
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <div class="eyebrow">Proceso de Selección INMLCF 2026 · práctica personal</div>
+    <h1>Simulador de pruebas escritas</h1>
+    <p class="sub">Juicio situacional · 1 enunciado + 3 opciones · competencias funcionales, comportamentales e integridad</p>
+  </div>
+  <nav class="tabs" id="tabs">
+    <button data-tab="simular" class="active">Simular</button>
+    <button data-tab="banco">Banco</button>
+    <button data-tab="docs">Documentos</button>
+    <button data-tab="historial">Historial</button>
+    <button data-tab="guia">Guía</button>
+  </nav>
+</header>
+
+<main>
+<!-- ============ SIMULAR ============ -->
+<section id="tab-simular" class="tab active">
+  <div id="config" class="card">
+    <h2>Configura tu simulacro</h2>
+    <div class="grid2">
+      <label>Nivel del empleo
+        <select id="cfg-nivel">
+          <option value="profesional">Profesional (Tabla 9 · 145 ítems)</option>
+          <option value="tecnico">Técnico (Tabla 8 · 145 ítems)</option>
+          <option value="asistencial">Asistencial (Tabla 7 · 109 ítems)</option>
+        </select>
+      </label>
+      <label>Grupo de vacantes
+        <select id="cfg-grupo">
+          <option value="grupos_1_2">Grupos 1 y 2 (65 % funcionales · 35 % comportamentales)</option>
+          <option value="grupos_3_4">Grupos 3 y 4 (50 % · 30 % · 20 % antecedentes)</option>
+        </select>
+      </label>
+      <label>Tipo de simulacro
+        <select id="cfg-modo">
+          <option value="completa">Prueba completa (funcionales + comportamentales e integridad)</option>
+          <option value="funcionales">Solo competencias funcionales</option>
+          <option value="comportamentales">Solo comportamentales e integridad</option>
+          <option value="componente">Un componente específico</option>
+          <option value="casos">Casos estilo Misión Mérito (contexto + varias preguntas)</option>
+          <option value="rapido">Práctica rápida (20 ítems al azar)</option>
+        </select>
+      </label>
+      <label id="lbl-comp" class="hidden">Componente
+        <select id="cfg-comp"></select>
+      </label>
+      <label>Retroalimentación
+        <select id="cfg-feedback">
+          <option value="final">Al final (como en la prueba real)</option>
+          <option value="inmediata">Inmediata (modo estudio)</option>
+        </select>
+      </label>
+      <label>Tiempo (minutos, 0 = sin límite)
+        <input type="number" id="cfg-tiempo" min="0" value="0">
+        <small id="tiempo-sug"></small>
+      </label>
+      <label class="chk"><input type="checkbox" id="cfg-barajar" checked> Barajar el orden de las opciones A, B, C</label>
+      <label class="chk"><input type="checkbox" id="cfg-personal" checked> Incluir preguntas de mi banco personal (documentos cargados)</label>
+      <label class="chk"><input type="checkbox" id="cfg-bloques" checked> Presentar por bloques (funcionales primero), como en el cuadernillo</label>
+      <label id="lbl-va" class="hidden">Puntaje de valoración de antecedentes (0-100)
+        <input type="number" id="cfg-va" min="0" max="100" step="0.01" value="0">
+      </label>
+    </div>
+    <div id="estructura-preview" class="estructura"></div>
+    <div class="actions"><button class="primary" id="btn-iniciar">Iniciar simulacro</button></div>
+  </div>
+
+  <div id="examen" class="hidden">
+    <div class="exam-bar">
+      <div><strong id="ex-titulo"></strong><div class="muted" id="ex-progreso"></div></div>
+      <div class="timer" id="ex-timer"></div>
+      <button class="ghost" id="btn-finalizar">Finalizar y calificar</button>
+    </div>
+    <div class="exam-layout">
+      <aside class="hoja">
+        <div class="hoja-title">Hoja de respuestas</div>
+        <div id="hoja-grid"></div>
+        <div class="leyenda"><span class="dot r"></span>respondida <span class="dot m"></span>marcada <span class="dot c"></span>actual</div>
+      </aside>
+      <article class="card qcard" id="qcard"></article>
+    </div>
+  </div>
+
+  <div id="resultados" class="hidden"></div>
+</section>
+
+<!-- ============ BANCO ============ -->
+<section id="tab-banco" class="tab">
+  <div class="card">
+    <h2>Banco de ítems</h2>
+    <p class="muted">Cobertura del banco frente a la estructura del Anexo Técnico. El banco base trae 145 ítems originales para el nivel profesional, más casos estilo Misión Mérito. Tus preguntas generadas desde documentos se guardan en este navegador.</p>
+    <div id="cobertura"></div>
+    <div class="actions">
+      <button id="btn-exportar">Exportar banco personal (JSON)</button>
+      <label class="filebtn">Importar banco (JSON)<input type="file" id="in-importar" accept=".json"></label>
+      <button class="ghost" id="btn-nuevo-item">Agregar pregunta manual</button>
+      <button class="ghost danger" id="btn-borrar-personal">Borrar banco personal</button>
+    </div>
+  </div>
+  <div class="card hidden" id="form-item-card"></div>
+  <div class="card">
+    <div class="filtros">
+      <select id="f-comp"><option value="">Todos los componentes</option></select>
+      <select id="f-origen"><option value="">Todo origen</option><option value="base">Banco base</option><option value="personal">Banco personal</option></select>
+      <input id="f-texto" placeholder="Buscar en enunciados…">
+    </div>
+    <div id="lista-items"></div>
+  </div>
+</section>
+
+<!-- ============ DOCUMENTOS ============ -->
+<section id="tab-docs" class="tab">
+  <div class="card">
+    <h2>Cargar documentos para caracterizar preguntas</h2>
+    <p class="muted">Sube normas, manuales, procedimientos o el MEFCL (PDF, DOCX, TXT o MD). El simulador extrae el texto, lo divide en fragmentos, sugiere el componente e indicador del Anexo que mejor le corresponde y detecta normas citadas. Luego puedes generar ítems de juicio situacional (1 enunciado + 3 opciones) con IA o crear borradores automáticos sin conexión. Los archivos no salen de tu navegador, salvo los fragmentos que envíes a la IA que elijas.</p>
+    <label class="drop" id="drop">
+      <input type="file" id="in-docs" multiple accept=".pdf,.docx,.txt,.md">
+      <span>Arrastra aquí tus archivos o haz clic para elegirlos</span>
+    </label>
+    <div id="docs-lista"></div>
+  </div>
+  <div class="card hidden" id="carac-card">
+    <h2>Caracterización</h2>
+    <div id="carac-resumen"></div>
+    <div class="filtros">
+      <select id="carac-filtro"><option value="">Todos los indicadores sugeridos</option></select>
+      <label class="chk"><input type="checkbox" id="carac-solo-sel"> Solo seleccionados</label>
+    </div>
+    <div id="carac-tabla"></div>
+  </div>
+  <div class="card hidden" id="gen-card">
+    <h2>Generar preguntas</h2>
+    <div class="grid2">
+      <label>Motor
+        <select id="gen-motor">
+          <option value="offline">Borrador automático sin conexión (completar enunciado)</option>
+          <option value="gemini">Google Gemini (tu API key)</option>
+          <option value="anthropic">Anthropic Claude (tu API key)</option>
+        </select>
+      </label>
+      <label>Ítems por fragmento
+        <input type="number" id="gen-n" min="1" max="5" value="2">
+      </label>
+      <label id="lbl-key" class="hidden">API key (se guarda solo en este navegador)
+        <input type="password" id="gen-key" placeholder="Pega tu clave">
+      </label>
+      <label id="lbl-modelo" class="hidden">Modelo
+        <input id="gen-modelo" value="">
+      </label>
+    </div>
+    <div class="actions"><button class="primary" id="btn-generar">Generar con los fragmentos seleccionados</button></div>
+    <div id="gen-salida"></div>
+  </div>
+</section>
+
+<!-- ============ HISTORIAL ============ -->
+<section id="tab-historial" class="tab">
+  <div class="card"><h2>Historial de simulacros</h2><div id="hist"></div>
+  <div class="actions"><button class="ghost danger" id="btn-borrar-hist">Borrar historial</button></div></div>
+</section>
+
+<!-- ============ GUÍA ============ -->
+<section id="tab-guia" class="tab">
+  <div class="card prose" id="guia"></div>
+</section>
+</main>
+<footer>Preguntas originales con fines de estudio. Los ítems reales del proceso son inéditos y reservados (Anexo Técnico, p. 52). Estructura tomada del Anexo Técnico INMLCF-LP-004-SG-2026.</footer>
+<script src="app.js"></script>
+</body>
+</html>
