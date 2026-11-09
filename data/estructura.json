@@ -1,0 +1,99 @@
+{
+  "fuente": "Anexo Técnico No. 1 – Especificaciones y Requerimientos Técnicos, Licitación Pública INMLCF-LP-004-SG-2026 (Proceso de Selección INMLCF 2026), numeral 6.4 y Tablas 5 a 10",
+  "formato_item": {
+    "modelo": "Juicio situacional",
+    "estructura": "Un (1) enunciado contextualizado que contiene explícitamente el incidente crítico + tres (3) opciones de respuesta (A, B, C) con una única clave",
+    "nota": "No se construyen casos independientes: la situación y el incidente crítico van dentro del propio enunciado (Anexo, p. 62-63). La Guía de Orientación debe mostrar situación, enunciado, opciones, justificación de clave y distractores, indicador y eje temático (p. 69)."
+  },
+  "calificacion": {
+    "escala": "0.00 a 100.00, parte entera y dos decimales truncados (transformación lineal)",
+    "grupos_1_2": { "funcionales": { "caracter": "Eliminatorio", "peso": 65, "minimo": 65.0 }, "comportamentales": { "caracter": "Clasificatorio", "peso": 35, "minimo": null } },
+    "grupos_3_4": { "funcionales": { "caracter": "Eliminatorio", "peso": 50, "minimo": 65.0 }, "comportamentales": { "caracter": "Clasificatorio", "peso": 30, "minimo": null }, "valoracion_antecedentes": { "caracter": "Clasificatorio", "peso": 20, "minimo": null } }
+  },
+  "niveles": {
+    "profesional": {
+      "tabla": "Tabla 9",
+      "componentes": [
+        { "id": "CG", "prueba": "funcionales", "nombre": "Conocimientos generales", "indicadores": 3, "items": 18 },
+        { "id": "CE", "prueba": "funcionales", "nombre": "Conocimientos específicos", "indicadores": 8, "items": 48 },
+        { "id": "HA", "prueba": "funcionales", "nombre": "Habilidades", "indicadores": 2, "items": 12 },
+        { "id": "AP", "prueba": "funcionales", "nombre": "Aptitudes", "indicadores": 2, "items": 12 },
+        { "id": "CC", "prueba": "comportamentales", "nombre": "Competencias comunes", "indicadores": 5, "items": 25 },
+        { "id": "CT", "prueba": "comportamentales", "nombre": "Competencias transversales", "indicadores": 1, "items": 5 },
+        { "id": "CN", "prueba": "comportamentales", "nombre": "Competencias por nivel", "indicadores": 1, "items": 5 },
+        { "id": "VI", "prueba": "comportamentales", "nombre": "Valores de integridad", "indicadores": 5, "items": 20 }
+      ],
+      "total_funcionales": 90, "total_comportamentales": 55, "total": 145
+    },
+    "tecnico": {
+      "tabla": "Tabla 8",
+      "componentes": [
+        { "id": "CG", "prueba": "funcionales", "nombre": "Conocimientos generales", "indicadores": 3, "items": 18 },
+        { "id": "CE", "prueba": "funcionales", "nombre": "Conocimientos específicos", "indicadores": 8, "items": 48 },
+        { "id": "HA", "prueba": "funcionales", "nombre": "Habilidades", "indicadores": 2, "items": 12 },
+        { "id": "AP", "prueba": "funcionales", "nombre": "Aptitudes", "indicadores": 2, "items": 12 },
+        { "id": "CC", "prueba": "comportamentales", "nombre": "Competencias comunes", "indicadores": 5, "items": 25 },
+        { "id": "CT", "prueba": "comportamentales", "nombre": "Competencias transversales", "indicadores": 1, "items": 5 },
+        { "id": "CN", "prueba": "comportamentales", "nombre": "Competencias por nivel", "indicadores": 1, "items": 5 },
+        { "id": "VI", "prueba": "comportamentales", "nombre": "Valores de integridad", "indicadores": 5, "items": 20 }
+      ],
+      "total_funcionales": 90, "total_comportamentales": 55, "total": 145
+    },
+    "asistencial": {
+      "tabla": "Tabla 7",
+      "componentes": [
+        { "id": "CG", "prueba": "funcionales", "nombre": "Conocimientos generales", "indicadores": 2, "items": 12 },
+        { "id": "CE", "prueba": "funcionales", "nombre": "Conocimientos específicos", "indicadores": 5, "items": 30 },
+        { "id": "HA", "prueba": "funcionales", "nombre": "Habilidades", "indicadores": 1, "items": 6 },
+        { "id": "AP", "prueba": "funcionales", "nombre": "Aptitudes", "indicadores": 1, "items": 6 },
+        { "id": "CC", "prueba": "comportamentales", "nombre": "Competencias comunes", "indicadores": 5, "items": 25 },
+        { "id": "CT", "prueba": "comportamentales", "nombre": "Competencias transversales", "indicadores": 1, "items": 5 },
+        { "id": "CN", "prueba": "comportamentales", "nombre": "Competencias por nivel", "indicadores": 1, "items": 5 },
+        { "id": "VI", "prueba": "comportamentales", "nombre": "Valores de integridad", "indicadores": 5, "items": 20 }
+      ],
+      "total_funcionales": 54, "total_comportamentales": 55, "total": 109
+    }
+  },
+  "indicadores": {
+    "_nota": "Propuesta de indicadores para practicar. Los definitivos los fija la 'Matriz de Estructura de Pruebas Escritas' y el diccionario de ejes temáticos del INMLCF; edítalos aquí o desde la pestaña Banco.",
+    "CG": [
+      { "id": "CG1", "nombre": "Estado colombiano, Constitución y función pública" },
+      { "id": "CG2", "nombre": "Naturaleza del INMLCF y carrera especial (Ley 938 de 2004, Decreto Ley 020 de 2014)" },
+      { "id": "CG3", "nombre": "Ética pública, régimen disciplinario y relación con el ciudadano" }
+    ],
+    "CE": [
+      { "id": "CE1", "nombre": "Sistema de gestión de la calidad (ISO 9001)" },
+      { "id": "CE2", "nombre": "Competencia de laboratorios de ensayo y calibración (ISO/IEC 17025)" },
+      { "id": "CE3", "nombre": "Organismos de inspección (ISO/IEC 17020) y control metrológico" },
+      { "id": "CE4", "nombre": "Modelo Integrado de Planeación y Gestión – MIPG y control interno" },
+      { "id": "CE5", "nombre": "Administración del riesgo (gestión, corrupción y seguridad de la información)" },
+      { "id": "CE6", "nombre": "Cadena de custodia y servicio forense" },
+      { "id": "CE7", "nombre": "Gestión documental y archivo" },
+      { "id": "CE8", "nombre": "Auditoría interna, indicadores y mejora continua" }
+    ],
+    "HA": [
+      { "id": "HA1", "nombre": "Análisis de información y solución de problemas" },
+      { "id": "HA2", "nombre": "Comprensión y análisis de textos técnicos y normativos" }
+    ],
+    "AP": [
+      { "id": "AP1", "nombre": "Razonamiento lógico-categórico y analítico" },
+      { "id": "AP2", "nombre": "Razonamiento cuantitativo e interpretación de datos" }
+    ],
+    "CC": [
+      { "id": "CC1", "nombre": "Aprendizaje continuo" },
+      { "id": "CC2", "nombre": "Orientación a resultados" },
+      { "id": "CC3", "nombre": "Orientación al usuario y al ciudadano" },
+      { "id": "CC4", "nombre": "Compromiso con la organización" },
+      { "id": "CC5", "nombre": "Trabajo en equipo" }
+    ],
+    "CT": [ { "id": "CT1", "nombre": "Adaptación al cambio" } ],
+    "CN": [ { "id": "CN1", "nombre": "Aporte técnico-profesional (nivel profesional)" } ],
+    "VI": [
+      { "id": "VI1", "nombre": "Honestidad" },
+      { "id": "VI2", "nombre": "Respeto" },
+      { "id": "VI3", "nombre": "Compromiso" },
+      { "id": "VI4", "nombre": "Diligencia" },
+      { "id": "VI5", "nombre": "Justicia" }
+    ]
+  }
+}

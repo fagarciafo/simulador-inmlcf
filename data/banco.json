@@ -1,0 +1,2341 @@
+{
+ "version": "1.0",
+ "items": [
+  {
+   "id": "CG1-01",
+   "comp": "CG",
+   "ind": "CG1",
+   "eje": "Principios de la función administrativa (art. 209 C.P.)",
+   "enunciado": "Una coordinadora de una seccional recibe la orden verbal de su superior de tramitar primero las solicitudes de copias de dictámenes presentadas por abogados conocidos del despacho, aunque se hayan radicado después que las de otros usuarios. Frente a esta instrucción, la coordinadora debe",
+   "opciones": [
+    "atender las solicitudes en el orden de radicación, porque la instrucción desconoce los principios de igualdad e imparcialidad de la función administrativa.",
+    "cumplir la orden mientras no exista una queja formal, pues la priorización corresponde a la autonomía del superior jerárquico.",
+    "atender primero a los abogados conocidos solo cuando la demora pueda afectar los términos de sus procesos judiciales."
+   ],
+   "clave": 0,
+   "just": "El art. 209 de la Constitución funda la función administrativa en igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad. Las opciones B y C justifican un trato preferente sin criterio objetivo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG1-02",
+   "comp": "CG",
+   "ind": "CG1",
+   "eje": "Mecanismos de protección de derechos",
+   "enunciado": "Un ciudadano manifiesta que la falta de un examen médico legal, pedido hace varios meses por la autoridad, le está impidiendo acceder a una atención en salud indispensable y considera vulnerado un derecho fundamental. El servidor que lo atiende le orienta sobre el mecanismo constitucional para la protección inmediata de ese derecho, que es la",
+   "opciones": [
+    "acción de cumplimiento, porque busca que la autoridad ejecute una norma con fuerza material de ley.",
+    "acción de tutela, porque procede para la protección inmediata de derechos fundamentales amenazados o vulnerados por la acción u omisión de una autoridad.",
+    "acción popular, porque protege los intereses de un grupo determinado de usuarios del servicio forense."
+   ],
+   "clave": 1,
+   "just": "La tutela (art. 86 C.P.) protege derechos fundamentales de manera inmediata. La acción de cumplimiento (art. 87) busca la efectividad de normas; la popular (art. 88) protege derechos e intereses colectivos.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG1-03",
+   "comp": "CG",
+   "ind": "CG1",
+   "eje": "Carrera y mérito (art. 125 C.P.)",
+   "enunciado": "Un servidor nombrado en provisionalidad desde hace seis años pregunta a la oficina de talento humano si, por su buena evaluación y antigüedad, puede ser inscrito directamente en carrera sin presentarse al concurso. La respuesta ajustada a la Constitución es que",
+   "opciones": [
+    "sí es posible, siempre que el jefe inmediato certifique el desempeño sobresaliente durante el último año.",
+    "sí es posible, porque la permanencia superior a cinco años en el cargo genera derechos de carrera.",
+    "no es posible, porque el ingreso a los cargos de carrera se hace por concurso de méritos y la provisionalidad no confiere derechos de carrera."
+   ],
+   "clave": 2,
+   "just": "El art. 125 C.P. dispone que el ingreso y ascenso en carrera se hace previo cumplimiento de requisitos y condiciones para determinar los méritos; ni la antigüedad ni la evaluación del provisional reemplazan el concurso.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG1-04",
+   "comp": "CG",
+   "ind": "CG1",
+   "eje": "Órganos de control",
+   "enunciado": "Una usuaria presenta queja porque considera que un servidor la trató de forma irrespetuosa y retrasó deliberadamente su trámite. Además de la oficina de control disciplinario interno, le informan que existe un órgano de control que puede ejercer de manera preferente el poder disciplinario sobre los servidores públicos. Ese órgano es la",
+   "opciones": [
+    "Procuraduría General de la Nación.",
+    "Contraloría General de la República.",
+    "Defensoría del Pueblo."
+   ],
+   "clave": 0,
+   "just": "El art. 277 C.P. asigna al Procurador la vigilancia de la conducta oficial y el ejercicio preferente del poder disciplinario. La Contraloría ejerce control fiscal y la Defensoría promueve los derechos humanos, sin potestad disciplinaria.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG1-05",
+   "comp": "CG",
+   "ind": "CG1",
+   "eje": "Control fiscal",
+   "enunciado": "Durante una auditoría, un equipo externo revisa si los recursos asignados a la compra de reactivos de laboratorio se ejecutaron con eficiencia y si hubo detrimento patrimonial. El órgano que tiene a su cargo esta vigilancia de la gestión fiscal es la",
+   "opciones": [
+    "Oficina de Control Interno de la propia entidad.",
+    "Contraloría General de la República.",
+    "Comisión de la Carrera Especial."
+   ],
+   "clave": 1,
+   "just": "El art. 267 C.P. asigna a la Contraloría la vigilancia de la gestión fiscal. Control interno evalúa de forma independiente pero no ejerce control fiscal; la Comisión de Carrera Especial administra la carrera.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG1-06",
+   "comp": "CG",
+   "ind": "CG1",
+   "eje": "Protección de datos personales",
+   "enunciado": "Un periodista solicita por correo a una seccional copia del informe pericial sobre las lesiones de una persona reconocida, argumentando el interés público de la noticia. El servidor que recibe la solicitud debe",
+   "opciones": [
+    "entregar el informe sin los nombres, ya que al anonimizarlo desaparece cualquier restricción de acceso.",
+    "entregar el informe, porque toda la información que produce una entidad pública es de libre acceso.",
+    "abstenerse de entregarlo y responder motivadamente, porque contiene datos sensibles de salud y hace parte de una actuación cuya información está sometida a reserva."
+   ],
+   "clave": 2,
+   "just": "Los datos de salud son sensibles (Ley 1581 de 2012) y el informe pericial se rinde a la autoridad dentro de una actuación con reserva. La negativa debe ser motivada. A y B desconocen la reserva legal y la naturaleza del documento.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG2-01",
+   "comp": "CG",
+   "ind": "CG2",
+   "eje": "Naturaleza jurídica del INMLCF",
+   "enunciado": "En una jornada de inducción, un nuevo profesional debe explicar a un grupo de estudiantes la naturaleza jurídica del Instituto Nacional de Medicina Legal y Ciencias Forenses. La explicación correcta es que el Instituto es",
+   "opciones": [
+    "un establecimiento público del orden nacional adscrito a la Fiscalía General de la Nación.",
+    "una dependencia interna de la Rama Ejecutiva adscrita al Ministerio de Salud.",
+    "una entidad descentralizada del orden territorial vinculada a los departamentos."
+   ],
+   "clave": 0,
+   "just": "La Ley 938 de 2004 (Estatuto Orgánico de la Fiscalía) define al INMLCF como establecimiento público adscrito a la Fiscalía General de la Nación, con personería jurídica, autonomía administrativa y patrimonio propio.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG2-02",
+   "comp": "CG",
+   "ind": "CG2",
+   "eje": "Funciones del INMLCF",
+   "enunciado": "Una clínica privada solicita al Instituto que practique, por acuerdo entre dos familias y sin intervención de autoridad alguna, una prueba técnica para resolver un desacuerdo particular. Teniendo en cuenta la misión del Instituto, el profesional que atiende la solicitud debe considerar que",
+   "opciones": [
+    "el servicio puede prestarse si la clínica asume los costos, porque el Instituto es el laboratorio de referencia del país.",
+    "los servicios forenses del Instituto se prestan como auxilio y soporte científico y técnico a la administración de justicia, a solicitud de autoridad competente.",
+    "la solicitud debe tramitarse como derecho de petición y atenderse en un plazo de quince días hábiles."
+   ],
+   "clave": 1,
+   "just": "Según la Ley 938 de 2004, el Instituto presta auxilio y soporte científico y técnico a la administración de justicia. A confunde el carácter de referencia con la prestación de servicios privados; C confunde el canal de petición con la prestación del servicio pericial.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG2-03",
+   "comp": "CG",
+   "ind": "CG2",
+   "eje": "Sistema de Medicina Legal y Ciencias Forenses",
+   "enunciado": "Un laboratorio forense de otra entidad pregunta quién debe organizar, dirigir y controlar el funcionamiento del Sistema de Medicina Legal y Ciencias Forenses en el país. Según la normativa que rige al Instituto, esa función corresponde al",
+   "opciones": [
+    "Ministerio de Justicia y del Derecho.",
+    "Instituto Nacional de Medicina Legal y Ciencias Forenses.",
+    "Consejo Superior de la Judicatura."
+   ],
+   "clave": 1,
+   "just": "La Ley 938 de 2004 asigna al INMLCF organizar y dirigir el Sistema de Medicina Legal y Ciencias Forenses y controlar su funcionamiento. Las otras entidades no tienen esa competencia.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG2-04",
+   "comp": "CG",
+   "ind": "CG2",
+   "eje": "Carrera especial – Decreto Ley 020 de 2014",
+   "enunciado": "Un aspirante pregunta qué instancia aprobó la Oferta Pública de Empleos de Carrera Especial (OPECE) y define los aspectos técnicos y operativos del Proceso de Selección INMLCF 2026. La respuesta correcta es la",
+   "opciones": [
+    "Comisión Nacional del Servicio Civil.",
+    "Comisión de la Carrera Especial del Instituto, en ejercicio de las funciones previstas en el Decreto Ley 020 de 2014.",
+    "Oficina de Talento Humano, en su condición de responsable de la planta de personal."
+   ],
+   "clave": 1,
+   "just": "El Anexo Técnico señala que la Comisión de la Carrera Especial, conforme al art. 17 del Decreto Ley 020 de 2014, aprobó la OPECE y define los aspectos técnicos del proceso. La CNSC administra la carrera general, no la especial del Instituto.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG2-05",
+   "comp": "CG",
+   "ind": "CG2",
+   "eje": "Pruebas del proceso de selección",
+   "enunciado": "Un aspirante de los grupos 1 y 2 obtuvo 63,80 puntos en la prueba de competencias funcionales y 92,00 en la de competencias comportamentales. Según las reglas del Proceso de Selección INMLCF 2026, su situación es que",
+   "opciones": [
+    "continúa en el proceso, porque su puntaje ponderado supera los 70 puntos.",
+    "queda excluido, porque la prueba de competencias funcionales es eliminatoria con un mínimo aprobatorio de 65,00 puntos.",
+    "continúa en el proceso, porque la prueba comportamental compensa el puntaje funcional al ser clasificatoria."
+   ],
+   "clave": 1,
+   "just": "Tablas 5 y 6 del Anexo: funcionales es eliminatoria con mínimo 65,00; comportamentales es clasificatoria. Un resultado eliminatorio no se compensa con la ponderación.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG2-06",
+   "comp": "CG",
+   "ind": "CG2",
+   "eje": "Conformación de listas de elegibles",
+   "enunciado": "Al publicarse los resultados consolidados, dos aspirantes discuten cómo se conformará la lista de elegibles para un mismo empleo. La afirmación correcta es que la lista",
+   "opciones": [
+    "se organiza en estricto orden de mérito, de acuerdo con los resultados consolidados y ponderados de las pruebas aplicadas.",
+    "se organiza dando prelación a quienes ya laboran en el Instituto, y luego por puntaje.",
+    "se organiza por orden alfabético entre quienes superaron la prueba eliminatoria."
+   ],
+   "clave": 0,
+   "just": "El Anexo Técnico (num. 6.4) establece que las listas se conforman en estricto orden de mérito con los resultados ponderados. Las opciones B y C introducen criterios ajenos al mérito.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG3-01",
+   "comp": "CG",
+   "ind": "CG3",
+   "eje": "Derecho de petición – términos",
+   "enunciado": "Un usuario radica una petición en la que solicita copia de un acto administrativo de la seccional que no tiene reserva. La funcionaria responsable debe tener presente que, salvo norma especial, este tipo de petición debe resolverse dentro de los",
+   "opciones": [
+    "diez (10) días hábiles siguientes a su recepción.",
+    "quince (15) días hábiles siguientes a su recepción.",
+    "treinta (30) días hábiles siguientes a su recepción."
+   ],
+   "clave": 0,
+   "just": "Ley 1755 de 2015 (art. 14): las peticiones de documentos e información se resuelven en 10 días; la regla general es de 15 días y las consultas, de 30 días.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG3-02",
+   "comp": "CG",
+   "ind": "CG3",
+   "eje": "Derecho de petición – petición incompleta",
+   "enunciado": "Una petición llega sin la información mínima para identificar el caso sobre el que se pide información. Para no negar el derecho y evitar una respuesta inútil, el servidor debe",
+   "opciones": [
+    "archivar la petición, porque la carga de identificar el caso corresponde exclusivamente al peticionario.",
+    "requerir al peticionario, dentro de los diez días siguientes a la radicación, para que la complete en el término máximo de un mes, advirtiendo el desistimiento tácito.",
+    "responder de fondo con la información que considere más probable, para cumplir el término legal."
+   ],
+   "clave": 1,
+   "just": "Art. 17 de la Ley 1755 de 2015 regula las peticiones incompletas: requerimiento dentro de 10 días y plazo de un mes para completar; vencido, se entiende el desistimiento. A y C desconocen ese procedimiento.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG3-03",
+   "comp": "CG",
+   "ind": "CG3",
+   "eje": "Derecho de petición – falta de competencia",
+   "enunciado": "A una dirección regional llega una petición que, por su contenido, debe resolver otra entidad. El servidor que la recibe debe",
+   "opciones": [
+    "devolverla al peticionario sin trámite, indicándole que se equivocó de destinatario.",
+    "informar al peticionario y remitirla a la autoridad competente dentro del término legal, enviando copia del oficio al interesado.",
+    "resolverla de fondo para garantizar la celeridad, aunque el asunto no sea de su competencia."
+   ],
+   "clave": 1,
+   "just": "Art. 21 de la Ley 1755 de 2015: si la autoridad no es competente, informa al interesado dentro de los 5 días siguientes y remite la petición al competente con copia al peticionario.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG3-04",
+   "comp": "CG",
+   "ind": "CG3",
+   "eje": "Conflicto de intereses",
+   "enunciado": "Un profesional integra el comité evaluador de una contratación y advierte que uno de los proponentes es la empresa de su cuñado. Para actuar conforme a la ley, el profesional debe",
+   "opciones": [
+    "participar en la evaluación, pero abstenerse de votar en la decisión final.",
+    "manifestar el impedimento por escrito ante su superior y abstenerse de intervenir en el asunto hasta que se decida.",
+    "continuar en el comité y dejar constancia del parentesco en el acta, ya que la evaluación es colegiada."
+   ],
+   "clave": 1,
+   "just": "El CPACA (arts. 11 y 12) obliga a declarar el impedimento ante el superior cuando hay interés particular o parentesco; mientras se decide, el servidor no puede actuar. A y C mantienen la intervención en el asunto.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG3-05",
+   "comp": "CG",
+   "ind": "CG3",
+   "eje": "Transparencia y acceso a la información",
+   "enunciado": "Una solicitud pide un documento institucional que contiene, en una de sus secciones, información clasificada por tratarse de datos personales de terceros. Conforme a la Ley 1712 de 2014, la entidad debe",
+   "opciones": [
+    "negar todo el documento, porque basta una sección reservada para restringir su acceso.",
+    "entregar el documento completo, porque prima el principio de máxima publicidad.",
+    "entregar la parte pública y proteger la parte clasificada, motivando la restricción."
+   ],
+   "clave": 2,
+   "just": "La Ley 1712 de 2014 consagra la máxima publicidad con excepciones motivadas y la divulgación parcial: se entrega lo público y se protege lo clasificado o reservado.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CG3-06",
+   "comp": "CG",
+   "ind": "CG3",
+   "eje": "Régimen disciplinario",
+   "enunciado": "Un usuario ofrece a un técnico un obsequio en dinero para que su caso sea atendido antes que los demás. Más allá de la valoración ética, desde el régimen disciplinario la conducta esperada del servidor es",
+   "opciones": [
+    "rechazar la dádiva, atender el caso en el turno que corresponde e informar el hecho por los canales institucionales.",
+    "aceptar el obsequio solo si el trámite se atiende en el turno normal, ya que no habría ventaja indebida.",
+    "rechazar el obsequio y atender el caso de inmediato para evitar que el usuario insista."
+   ],
+   "clave": 0,
+   "just": "El Código General Disciplinario prohíbe solicitar o recibir dádivas o beneficios por actos del cargo. La conducta esperada es rechazar, no alterar el turno y reportar. B acepta la dádiva; C concede la ventaja buscada.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE1-01",
+   "comp": "CE",
+   "ind": "CE1",
+   "eje": "Acción correctiva",
+   "enunciado": "En tres meses consecutivos se detectan informes periciales con errores de transcripción en la identificación del examinado. El líder del proceso ya corrigió los informes afectados. Para cumplir ISO 9001 frente a esta no conformidad recurrente, lo siguiente que corresponde es",
+   "opciones": [
+    "analizar la causa raíz, determinar e implementar acciones para eliminarla y luego verificar la eficacia de lo implementado.",
+    "reforzar la revisión final de cada informe por parte del coordinador, sin modificar el procedimiento vigente.",
+    "registrar los casos en el informe de gestión y esperar la próxima auditoría interna para decidir."
+   ],
+   "clave": 0,
+   "just": "ISO 9001 (10.2) exige reaccionar, corregir, evaluar la necesidad de eliminar las causas, implementar acciones y revisar su eficacia. B es una corrección o control adicional sin tratar la causa; C posterga la acción.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE1-02",
+   "comp": "CE",
+   "ind": "CE1",
+   "eje": "Información documentada",
+   "enunciado": "En una visita de seguimiento se encuentra que dos laboratorios usan versiones distintas del mismo formato de registro y que una de ellas fue derogada hace un año. Este hallazgo evidencia una debilidad principalmente en",
+   "opciones": [
+    "la planificación de los objetivos de calidad del proceso.",
+    "el control de la información documentada: identificación, versión, distribución y retiro de documentos obsoletos.",
+    "la evaluación de la satisfacción de las autoridades que solicitan el servicio."
+   ],
+   "clave": 1,
+   "just": "ISO 9001 (7.5.3) exige controlar la información documentada para que esté disponible, en su versión vigente y evitando el uso no intencionado de documentos obsoletos.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE1-03",
+   "comp": "CE",
+   "ind": "CE1",
+   "eje": "Riesgos y oportunidades",
+   "enunciado": "La dirección regional planea trasladar el área de recepción de evidencias a una nueva sede durante el segundo semestre. Al planificar este cambio dentro del sistema de gestión de la calidad, lo primero que debe asegurarse es",
+   "opciones": [
+    "que el traslado se realice en el menor tiempo posible para no afectar los indicadores de oportunidad.",
+    "determinar los riesgos y oportunidades del cambio, su propósito, consecuencias, recursos y responsabilidades, y planificar las acciones para abordarlos.",
+    "comunicar el traslado a las autoridades usuarias una vez se haya realizado, para no generar alarma."
+   ],
+   "clave": 1,
+   "just": "ISO 9001 (6.1 y 6.3) exige planificar los cambios considerando su propósito, consecuencias, integridad del sistema, recursos y responsabilidades, abordando riesgos y oportunidades.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE1-04",
+   "comp": "CE",
+   "ind": "CE1",
+   "eje": "Partes interesadas",
+   "enunciado": "Al actualizar el sistema de gestión, el equipo debe identificar quiénes influyen en la capacidad de entregar servicios conformes, como fiscales, jueces, víctimas, entes de control y proveedores de reactivos. Esta actividad corresponde a",
+   "opciones": [
+    "la determinación de las necesidades y expectativas de las partes interesadas pertinentes y su seguimiento.",
+    "la revisión por la dirección, porque allí se define el alcance de las auditorías externas.",
+    "el control de los procesos, productos y servicios suministrados externamente."
+   ],
+   "clave": 0,
+   "just": "ISO 9001 (4.2) pide determinar las partes interesadas pertinentes y sus requisitos y hacerles seguimiento. B y C son requisitos distintos (9.3 y 8.4).",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE1-05",
+   "comp": "CE",
+   "ind": "CE1",
+   "eje": "Revisión por la dirección",
+   "enunciado": "La responsable del SIG prepara el informe para la revisión por la dirección de fin de año. Para que la revisión cumpla su propósito, el informe debe incluir, entre otros,",
+   "opciones": [
+    "únicamente el estado de los planes de mejoramiento suscritos con los entes de control.",
+    "el estado de acciones de revisiones anteriores, el desempeño de los procesos, los resultados de auditorías, la satisfacción de usuarios y la adecuación de recursos.",
+    "el listado del personal capacitado y sus horas de formación como único indicador de competencia."
+   ],
+   "clave": 1,
+   "just": "ISO 9001 (9.3.2) enumera las entradas de la revisión por la dirección: acciones previas, cambios, desempeño y eficacia, auditorías, satisfacción, no conformidades, recursos, riesgos y oportunidades de mejora.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE1-06",
+   "comp": "CE",
+   "ind": "CE1",
+   "eje": "Enfoque a procesos y PHVA",
+   "enunciado": "Un proceso de apoyo define sus actividades y responsables, pero no mide sus resultados ni compara su desempeño con lo planificado. Desde el ciclo PHVA, la etapa que está fallando es la de",
+   "opciones": [
+    "planificar.",
+    "hacer.",
+    "verificar."
+   ],
+   "clave": 2,
+   "just": "En el PHVA, verificar consiste en hacer seguimiento y medición de procesos y resultados frente a lo planificado; sin esa etapa no hay base para actuar y mejorar.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE2-01",
+   "comp": "CE",
+   "ind": "CE2",
+   "eje": "Imparcialidad",
+   "enunciado": "Un perito del laboratorio de toxicología es designado para analizar una muestra en un caso en el que el investigado es su vecino y amigo cercano. Conforme a ISO/IEC 17025, el laboratorio debe",
+   "opciones": [
+    "permitir el análisis porque el método está validado y el resultado es objetivo.",
+    "identificar el riesgo para la imparcialidad y eliminarlo o minimizarlo, por ejemplo asignando el análisis a otro perito.",
+    "exigir al perito una declaración escrita de que actuará con objetividad y continuar con la asignación."
+   ],
+   "clave": 1,
+   "just": "ISO/IEC 17025 (4.1) exige identificar continuamente riesgos a la imparcialidad, incluidos los derivados de relaciones personales, y eliminarlos o minimizarlos. La validación del método no elimina el conflicto.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE2-02",
+   "comp": "CE",
+   "ind": "CE2",
+   "eje": "Trabajo no conforme",
+   "enunciado": "Se descubre que un lote de análisis se procesó con un patrón de control vencido y que algunos resultados ya habían sido emitidos a la autoridad. Según ISO/IEC 17025, el laboratorio debe",
+   "opciones": [
+    "evaluar la importancia del trabajo no conforme, incluido el impacto en resultados anteriores, retener o recuperar informes si es necesario, notificar al cliente y definir la autorización para reanudar.",
+    "repetir los análisis del lote y reemplazar los informes sin necesidad de comunicar la situación al cliente.",
+    "dejar constancia en la hoja de vida del patrón y continuar, puesto que el vencimiento no implica error en los resultados."
+   ],
+   "clave": 0,
+   "just": "ISO/IEC 17025 (7.10) exige evaluar la significancia, el impacto en resultados previos, detener o retener trabajos, notificar al cliente y autorizar la reanudación. B omite la notificación; C ignora el trabajo no conforme.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE2-03",
+   "comp": "CE",
+   "ind": "CE2",
+   "eje": "Aseguramiento de la validez de los resultados",
+   "enunciado": "El laboratorio de genética quiere demostrar periódicamente que sus resultados son comparables con los de otros laboratorios competentes. La actividad más adecuada para este propósito es",
+   "opciones": [
+    "aumentar la frecuencia de mantenimiento de los equipos.",
+    "participar en ensayos de aptitud o comparaciones interlaboratorio y analizar sus resultados.",
+    "duplicar la firma de revisión técnica en todos los informes."
+   ],
+   "clave": 1,
+   "just": "ISO/IEC 17025 (7.7.2) contempla el seguimiento del desempeño mediante comparación con otros laboratorios (ensayos de aptitud o interlaboratorio). A y B son controles internos que no demuestran comparabilidad externa.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE2-04",
+   "comp": "CE",
+   "ind": "CE2",
+   "eje": "Trazabilidad metrológica",
+   "enunciado": "Para garantizar la trazabilidad de las mediciones de una balanza analítica, el laboratorio debe contratar su calibración. El criterio que mejor asegura la trazabilidad metrológica es elegir un proveedor",
+   "opciones": [
+    "que ofrezca el menor costo y el menor tiempo de entrega.",
+    "acreditado para esa magnitud y alcance, cuyo certificado declare resultados con incertidumbre y trazabilidad al Sistema Internacional de Unidades.",
+    "recomendado por el fabricante del equipo, aunque no cuente con acreditación."
+   ],
+   "clave": 1,
+   "just": "ISO/IEC 17025 (6.5) exige una cadena ininterrumpida de calibraciones con incertidumbre declarada; la calibración por laboratorio acreditado es la forma reconocida de demostrarla.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE2-05",
+   "comp": "CE",
+   "ind": "CE2",
+   "eje": "Validación de métodos",
+   "enunciado": "Un laboratorio modifica un método normalizado para analizar una matriz biológica no prevista por la norma original. Antes de usarlo en casos reales, el laboratorio debe",
+   "opciones": [
+    "verificar únicamente que el analista pueda aplicar el método normalizado original.",
+    "validar el método modificado, demostrando que es adecuado para el uso previsto y registrando el procedimiento y los resultados.",
+    "solicitar a la autoridad judicial autorización para aplicar el método sin validación."
+   ],
+   "clave": 1,
+   "just": "ISO/IEC 17025 (7.2.2) exige validar métodos no normalizados, desarrollados por el laboratorio y normalizados usados fuera de su alcance previsto o modificados.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE2-06",
+   "comp": "CE",
+   "ind": "CE2",
+   "eje": "Quejas",
+   "enunciado": "Un fiscal presenta una queja porque el informe de un análisis llegó con datos de identificación incompletos. Según ISO/IEC 17025, el manejo de esta queja requiere que",
+   "opciones": [
+    "el mismo perito que elaboró el informe investigue y decida sobre la queja, por conocer mejor el caso.",
+    "se acuse recibo, se informe el avance y el resultado al reclamante, y la decisión sea tomada o revisada por personas no involucradas en las actividades cuestionadas.",
+    "se responda solo si la queja llega por escrito con firma de la autoridad judicial."
+   ],
+   "clave": 1,
+   "just": "ISO/IEC 17025 (7.9) exige proceso documentado, acuse de recibo, informes de avance y resultado, y que la comunicación del resultado sea realizada, revisada o aprobada por personas no involucradas.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE3-01",
+   "comp": "CE",
+   "ind": "CE3",
+   "eje": "Organismos de inspección – tipos",
+   "enunciado": "Una unidad de inspección forma parte separada e identificable de una entidad y presta servicios de inspección únicamente a esa organización matriz. Según ISO/IEC 17020, este organismo corresponde al tipo",
+   "opciones": [
+    "A.",
+    "B.",
+    "C."
+   ],
+   "clave": 1,
+   "just": "ISO/IEC 17020 (anexo A): tipo A es tercera parte independiente; tipo B es parte separada e identificable que inspecciona solo para su organización matriz; tipo C puede inspeccionar para la matriz y otros, con salvaguardas.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE3-02",
+   "comp": "CE",
+   "ind": "CE3",
+   "eje": "Comprobaciones intermedias",
+   "enunciado": "Una balanza se calibra cada año, pero se usa a diario en mediciones críticas. Para mantener la confianza en su estado de calibración entre una calibración y otra, el responsable de control metrológico debe",
+   "opciones": [
+    "programar comprobaciones intermedias con pesas patrón, registrando y evaluando los resultados frente a criterios de aceptación.",
+    "reducir el intervalo de calibración a un mes sin analizar datos históricos.",
+    "confiar en la autocalibración interna del equipo como única evidencia de desempeño."
+   ],
+   "clave": 0,
+   "just": "ISO/IEC 17025 (6.4.10) contempla comprobaciones intermedias para mantener la confianza en el desempeño. B no se basa en evidencia; C no reemplaza la trazabilidad externa.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE3-03",
+   "comp": "CE",
+   "ind": "CE3",
+   "eje": "Incertidumbre expandida",
+   "enunciado": "Un certificado de calibración reporta una incertidumbre expandida calculada con un factor de cobertura k = 2. Al interpretar el certificado, el profesional debe entender que ese valor corresponde a un nivel de confianza de",
+   "opciones": [
+    "aproximadamente 68 %.",
+    "aproximadamente 95 %.",
+    "exactamente 100 %."
+   ],
+   "clave": 1,
+   "just": "Con distribución aproximadamente normal, k = 2 da un nivel de confianza cercano al 95 % (GUM). k = 1 equivale a ~68 % y ninguna incertidumbre ofrece 100 %.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE3-04",
+   "comp": "CE",
+   "ind": "CE3",
+   "eje": "Declaración de conformidad",
+   "enunciado": "Una autoridad solicita al laboratorio que declare si un instrumento cumple con el error máximo permitido. El resultado de la verificación está cerca del límite. Antes de emitir la declaración, el laboratorio debe",
+   "opciones": [
+    "redondear el resultado para que quede dentro del error máximo permitido.",
+    "aplicar una regla de decisión documentada y acordada con el cliente, que tenga en cuenta la incertidumbre de medición.",
+    "declarar la conformidad, porque la incertidumbre no se considera en verificaciones."
+   ],
+   "clave": 1,
+   "just": "ISO/IEC 17025 (7.1.3 y 7.8.6) exige que la declaración de conformidad se base en una regla de decisión acordada que considere el riesgo asociado a la incertidumbre.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE3-05",
+   "comp": "CE",
+   "ind": "CE3",
+   "eje": "Intervalos de calibración",
+   "enunciado": "Al revisar el programa metrológico, el equipo discute cómo definir la frecuencia de calibración de los equipos. El criterio técnicamente más sólido es",
+   "opciones": [
+    "establecer el mismo intervalo para todos los equipos para simplificar la gestión.",
+    "definir el intervalo según la deriva histórica, la frecuencia y severidad de uso, las recomendaciones del fabricante y las comprobaciones intermedias, revisándolo periódicamente.",
+    "calibrar solo cuando el equipo presente una falla evidente."
+   ],
+   "clave": 1,
+   "just": "Los intervalos deben fundamentarse en datos de estabilidad y uso y revisarse. A ignora diferencias entre equipos; C es reactivo y compromete la validez de resultados.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE3-06",
+   "comp": "CE",
+   "ind": "CE3",
+   "eje": "Medición de alcohol en aire espirado",
+   "enunciado": "En una capacitación sobre medición indirecta de alcoholemia en aire espirado, un participante pregunta por qué el protocolo exige un periodo de observación previo a la prueba. La explicación correcta es que ese periodo",
+   "opciones": [
+    "permite que el equipo alcance la temperatura ambiente del sitio de medición.",
+    "busca evitar la interferencia del alcohol residual en la boca y asegurar que la muestra represente aire alveolar.",
+    "sirve para que el examinado firme el consentimiento y conozca sus derechos."
+   ],
+   "clave": 1,
+   "just": "El periodo de observación busca descartar alcohol bucal residual (vómito, enjuague, ingesta reciente) que sobrestimaría la concentración. A y C son condiciones distintas del protocolo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE4-01",
+   "comp": "CE",
+   "ind": "CE4",
+   "eje": "Dimensiones de MIPG",
+   "enunciado": "La dirección regional crea un repositorio de lecciones aprendidas sobre la atención de casos complejos y un espacio mensual para compartir buenas prácticas entre seccionales. Esta iniciativa se enmarca principalmente en la dimensión de MIPG de",
+   "opciones": [
+    "Gestión del conocimiento y la innovación.",
+    "Evaluación de resultados.",
+    "Talento humano."
+   ],
+   "clave": 0,
+   "just": "La dimensión de gestión del conocimiento y la innovación busca generar, capturar, compartir y aplicar el conocimiento institucional, incluidas lecciones aprendidas y buenas prácticas.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE4-02",
+   "comp": "CE",
+   "ind": "CE4",
+   "eje": "Líneas de defensa",
+   "enunciado": "La responsable del SIG de una dirección regional monitorea los mapas de riesgos de los procesos, revisa la efectividad de los controles diseñados por los líderes y reporta alertas a la dirección. Según el esquema de líneas de defensa, este rol corresponde a la",
+   "opciones": [
+    "primera línea de defensa.",
+    "segunda línea de defensa.",
+    "tercera línea de defensa."
+   ],
+   "clave": 1,
+   "just": "En MIPG, la primera línea son los líderes de proceso que operan controles; la segunda, quienes monitorean y asesoran sobre riesgos y controles (planeación, sistemas de gestión); la tercera, la Oficina de Control Interno con evaluación independiente.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE4-03",
+   "comp": "CE",
+   "ind": "CE4",
+   "eje": "Instancias de MIPG",
+   "enunciado": "Se requiere aprobar y hacer seguimiento a las acciones y estrategias para la implementación y operación de MIPG en la entidad. La instancia encargada de esta función es el",
+   "opciones": [
+    "Comité Institucional de Gestión y Desempeño.",
+    "Comité Institucional de Coordinación de Control Interno.",
+    "Comité de Convivencia Laboral."
+   ],
+   "clave": 0,
+   "just": "Según el Decreto 1499 de 2017, el Comité Institucional de Gestión y Desempeño orienta la implementación de MIPG; el de Coordinación de Control Interno es la instancia de decisión del sistema de control interno.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE4-04",
+   "comp": "CE",
+   "ind": "CE4",
+   "eje": "MECI",
+   "enunciado": "En la revisión del sistema de control interno se verifica si la entidad cuenta con autoevaluaciones y evaluaciones independientes que permitan detectar desviaciones y proponer mejoras. Este aspecto corresponde al componente del MECI denominado",
+   "opciones": [
+    "ambiente de control.",
+    "actividades de control.",
+    "actividades de monitoreo."
+   ],
+   "clave": 2,
+   "just": "El MECI (7.ª dimensión de MIPG) tiene cinco componentes: ambiente de control, evaluación del riesgo, actividades de control, información y comunicación, y actividades de monitoreo (autoevaluación y evaluación independiente).",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE4-05",
+   "comp": "CE",
+   "ind": "CE4",
+   "eje": "Medición del desempeño institucional",
+   "enunciado": "Una entidad necesita reportar el avance de la implementación de MIPG y obtener su Índice de Desempeño Institucional para compararse con otras entidades. El instrumento utilizado para ese fin es el",
+   "opciones": [
+    "Formulario Único de Reporte de Avances de la Gestión (FURAG).",
+    "Plan Anual de Adquisiciones.",
+    "Formato Único de Inventario Documental (FUID)."
+   ],
+   "clave": 0,
+   "just": "El FURAG, administrado por Función Pública, mide el desempeño institucional y el avance de MIPG. El PAA es de contratación y el FUID es un instrumento archivístico.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE4-06",
+   "comp": "CE",
+   "ind": "CE4",
+   "eje": "Marco normativo de MIPG",
+   "enunciado": "Un servidor afirma en una reunión que MIPG reemplazó al sistema de control interno. La aclaración correcta, según el Decreto 1499 de 2017, es que",
+   "opciones": [
+    "MIPG integró los sistemas de desarrollo administrativo y de gestión de la calidad en un solo sistema de gestión, que se articula con el sistema de control interno.",
+    "MIPG derogó el sistema de control interno y lo convirtió en un comité.",
+    "MIPG solo aplica a entidades territoriales y no modifica los sistemas de gestión nacionales."
+   ],
+   "clave": 0,
+   "just": "El Decreto 1499 de 2017 integró en un sistema de gestión los sistemas de desarrollo administrativo y de gestión de la calidad, articulándolo con el sistema de control interno, que sigue vigente.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE5-01",
+   "comp": "CE",
+   "ind": "CE5",
+   "eje": "Riesgo inherente y residual",
+   "enunciado": "Al valorar el riesgo 'pérdida de muestras en el traslado entre sedes', el equipo calcula una probabilidad alta y un impacto mayor antes de considerar controles; luego aplica la evaluación de los controles existentes y el nivel desciende a moderado. El nivel moderado corresponde al riesgo",
+   "opciones": [
+    "inherente.",
+    "residual.",
+    "aceptado."
+   ],
+   "clave": 1,
+   "just": "Según la Guía de administración del riesgo de Función Pública, el riesgo inherente es el nivel sin controles y el residual el que queda después de aplicarlos. 'Aceptado' es una opción de tratamiento, no un nivel.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE5-02",
+   "comp": "CE",
+   "ind": "CE5",
+   "eje": "Riesgo de corrupción",
+   "enunciado": "En el taller de identificación de riesgos se proponen tres redacciones. La que corresponde técnicamente a un riesgo de corrupción es",
+   "opciones": [
+    "Posibilidad de demoras en la entrega de dictámenes por insuficiencia de peritos.",
+    "Posibilidad de recibir o solicitar dádivas para alterar el orden de atención de casos en beneficio de un particular.",
+    "Posibilidad de fallas en el sistema de información por cortes de energía."
+   ],
+   "clave": 1,
+   "just": "El riesgo de corrupción implica el uso del poder, por acción u omisión, para desviar la gestión de lo público hacia un beneficio privado. A y C son riesgos de gestión u operativos.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE5-03",
+   "comp": "CE",
+   "ind": "CE5",
+   "eje": "Tipología de controles",
+   "enunciado": "Antes de firmar cada acta de entrega de elementos, el almacenista verifica en el sistema que el solicitante esté autorizado y que las cantidades coincidan con la solicitud aprobada. Según su momento de ejecución, este control es",
+   "opciones": [
+    "preventivo.",
+    "detectivo.",
+    "correctivo."
+   ],
+   "clave": 0,
+   "just": "El control preventivo actúa antes de que se materialice el riesgo, sobre las causas. El detectivo identifica el evento durante o después; el correctivo restablece tras la materialización.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE5-04",
+   "comp": "CE",
+   "ind": "CE5",
+   "eje": "Tratamiento del riesgo de corrupción",
+   "enunciado": "Un riesgo de corrupción queda en zona alta después de evaluar los controles. Un líder de proceso propone aceptarlo porque reducirlo sería costoso. Según la guía metodológica de Función Pública, la respuesta adecuada es que",
+   "opciones": [
+    "el riesgo puede aceptarse si el comité lo aprueba y se deja constancia en el acta.",
+    "los riesgos de corrupción no admiten la opción de aceptar; deben reducirse, evitarse o, según el caso, compartirse mediante acciones adicionales.",
+    "el riesgo debe eliminarse del mapa para no afectar la calificación del FURAG."
+   ],
+   "clave": 1,
+   "just": "La guía de administración del riesgo señala que para riesgos de corrupción no procede la aceptación. Eliminarlo del mapa ocultaría el riesgo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE5-05",
+   "comp": "CE",
+   "ind": "CE5",
+   "eje": "Materialización del riesgo",
+   "enunciado": "Se confirma que un servidor alteró registros para favorecer a un particular, materializándose un riesgo de corrupción identificado en el mapa. Además de las acciones inmediatas, el líder del proceso debe",
+   "opciones": [
+    "corregir los registros y reservar la información para no afectar la imagen institucional.",
+    "informar a las instancias competentes (control interno disciplinario y autoridades), revisar y ajustar los controles y actualizar el mapa de riesgos.",
+    "esperar el seguimiento cuatrimestral de control interno para reportar el evento."
+   ],
+   "clave": 1,
+   "just": "Ante la materialización se denuncia o informa a las autoridades competentes, se revisan los controles que fallaron y se actualiza el mapa. A oculta el hecho; C retrasa la respuesta.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE5-06",
+   "comp": "CE",
+   "ind": "CE5",
+   "eje": "Seguridad de la información",
+   "enunciado": "Un profesional envía informes periciales desde su correo personal, sin cifrado, para cumplir los plazos mientras falla el correo institucional. El principio de seguridad de la información más directamente expuesto es la",
+   "opciones": [
+    "disponibilidad.",
+    "integridad.",
+    "confidencialidad."
+   ],
+   "clave": 2,
+   "just": "Enviar información reservada por canales no autorizados expone su confidencialidad (acceso por personas no autorizadas). La disponibilidad se refiere al acceso oportuno y la integridad a la exactitud.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE6-01",
+   "comp": "CE",
+   "ind": "CE6",
+   "eje": "Finalidad de la cadena de custodia",
+   "enunciado": "En una capacitación, un nuevo técnico pregunta cuál es la finalidad de aplicar la cadena de custodia a los elementos materiales probatorios y evidencia física. La respuesta correcta es que busca",
+   "opciones": [
+    "acelerar los tiempos de análisis en el laboratorio.",
+    "demostrar la autenticidad de los elementos, garantizando su identidad, integridad, continuidad y registro desde su hallazgo hasta su disposición final.",
+    "establecer quién es el responsable penal del delito investigado."
+   ],
+   "clave": 1,
+   "just": "La Ley 906 de 2004 (art. 254 y ss.) establece la cadena de custodia para demostrar la autenticidad de los EMP y EF mediante su identidad, estado original, condiciones de recolección, preservación, embalaje, envío y cambios.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE6-02",
+   "comp": "CE",
+   "ind": "CE6",
+   "eje": "Recepción de elementos",
+   "enunciado": "Al recibir un embalaje remitido por la policía judicial, el técnico de recepción observa que el sello de seguridad está roto, aunque el rótulo coincide con el oficio. Lo procedente es",
+   "opciones": [
+    "recibir el embalaje, dejar constancia detallada del estado en el registro de cadena de custodia e informar a la autoridad que lo remite.",
+    "abrir el embalaje para verificar que el contenido esté completo y volver a sellarlo.",
+    "rechazar el elemento sin dejar registro, para evitar responsabilidades del laboratorio."
+   ],
+   "clave": 0,
+   "just": "Toda anomalía en el embalaje debe documentarse en el registro de cadena de custodia e informarse; no se altera el elemento ni se omite el registro, pues eso rompe la continuidad documentada.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE6-03",
+   "comp": "CE",
+   "ind": "CE6",
+   "eje": "Registro de continuidad",
+   "enunciado": "Durante una auditoría al almacén de evidencias se encuentra un elemento cuyo registro de cadena de custodia no muestra quién lo tuvo durante dos días. El riesgo principal que genera esta situación es",
+   "opciones": [
+    "la pérdida de capacidad de almacenamiento del laboratorio.",
+    "que se cuestione la autenticidad del elemento en juicio por falta de continuidad documentada.",
+    "un incumplimiento en el indicador de oportunidad del proceso."
+   ],
+   "clave": 1,
+   "just": "Cada persona que tiene contacto con el elemento debe quedar registrada; los vacíos permiten cuestionar la mismidad y autenticidad del EMP o EF ante el juez.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE6-04",
+   "comp": "CE",
+   "ind": "CE6",
+   "eje": "Sujetos obligados",
+   "enunciado": "Un contratista de transporte que traslada muestras entre laboratorios afirma que no debe firmar el registro de cadena de custodia porque no es servidor público. La respuesta correcta es que",
+   "opciones": [
+    "tiene razón, pues la cadena de custodia solo obliga a los servidores con funciones de policía judicial.",
+    "debe firmar únicamente si la autoridad judicial se lo ordena por escrito.",
+    "la cadena de custodia se aplica a servidores públicos y particulares que, por razón de su labor, tengan contacto con los elementos."
+   ],
+   "clave": 2,
+   "just": "La Ley 906 de 2004 (art. 254) extiende la cadena de custodia a servidores públicos y particulares que, por su labor, entren en contacto con los elementos materiales probatorios y la evidencia física.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE6-05",
+   "comp": "CE",
+   "ind": "CE6",
+   "eje": "Embalaje y preservación",
+   "enunciado": "Para enviar al laboratorio varias prendas recolectadas de una misma víctima, un técnico propone empacarlas juntas en una sola bolsa plástica para ahorrar material. La recomendación técnica correcta es",
+   "opciones": [
+    "embalar cada prenda por separado, en empaque adecuado a su naturaleza, rotulado y sellado, para evitar contaminación cruzada y degradación.",
+    "usar una sola bolsa plástica sellada, pues lo importante es que el rótulo identifique el caso.",
+    "enviar las prendas sin embalar dentro de una caja para facilitar su revisión en recepción."
+   ],
+   "clave": 0,
+   "just": "El embalaje individual, adecuado a la naturaleza del elemento (p. ej., papel para material húmedo o biológico), rotulado y sellado, preserva la integridad y evita contaminación cruzada.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE6-06",
+   "comp": "CE",
+   "ind": "CE6",
+   "eje": "Verificación previa al análisis",
+   "enunciado": "Una perita recibe para análisis un elemento cuya descripción en el rótulo no coincide con lo que encuentra al abrir el embalaje. Antes de iniciar el estudio debe",
+   "opciones": [
+    "analizar el elemento recibido, pues el error del rótulo no afecta el resultado técnico.",
+    "documentar la discrepancia, informar a quien remitió el elemento y esperar instrucciones antes de continuar.",
+    "corregir la descripción del rótulo para que coincida con el contenido."
+   ],
+   "clave": 1,
+   "just": "Las discrepancias entre lo rotulado y lo recibido deben documentarse y comunicarse, pues comprometen la identidad del elemento. Modificar el rótulo altera el registro.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE7-01",
+   "comp": "CE",
+   "ind": "CE7",
+   "eje": "Ciclo vital del documento",
+   "enunciado": "Los expedientes administrativos de contratos terminados hace tres años son consultados con poca frecuencia por la dependencia, pero aún deben conservarse por razones legales. Según el ciclo vital del documento, deben custodiarse en el",
+   "opciones": [
+    "archivo de gestión.",
+    "archivo central.",
+    "archivo histórico."
+   ],
+   "clave": 1,
+   "just": "La Ley 594 de 2000 define el archivo de gestión (consulta frecuente), el central (consulta esporádica, aún con vigencia administrativa o legal) y el histórico (conservación permanente).",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE7-02",
+   "comp": "CE",
+   "ind": "CE7",
+   "eje": "Tablas de Retención Documental",
+   "enunciado": "Una dependencia necesita saber cuánto tiempo conservar los registros de mantenimiento de equipos y cuál será su disposición final. El instrumento archivístico que define esa información es la",
+   "opciones": [
+    "Tabla de Retención Documental (TRD).",
+    "hoja de vida del equipo.",
+    "política de seguridad de la información."
+   ],
+   "clave": 0,
+   "just": "La TRD lista las series y subseries documentales con sus tiempos de permanencia en cada etapa del ciclo vital y su disposición final (conservación, eliminación, selección o digitalización).",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE7-03",
+   "comp": "CE",
+   "ind": "CE7",
+   "eje": "Transferencias documentales",
+   "enunciado": "Para realizar la transferencia primaria de los documentos que cumplieron su tiempo en el archivo de gestión, la dependencia debe entregar al archivo central los documentos organizados conforme a la TRD junto con",
+   "opciones": [
+    "el Formato Único de Inventario Documental (FUID).",
+    "un acta de eliminación documental.",
+    "el plan de mejoramiento archivístico."
+   ],
+   "clave": 0,
+   "just": "Las transferencias se soportan con el inventario documental en el FUID; el acta de eliminación aplica a otro procedimiento y el plan de mejoramiento es un instrumento de seguimiento.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE7-04",
+   "comp": "CE",
+   "ind": "CE7",
+   "eje": "Principios archivísticos",
+   "enunciado": "Al organizar un expediente, un auxiliar decide reordenar los documentos por tipo (oficios, informes, actas) en lugar de mantener la secuencia en que se produjeron durante el trámite. Esta decisión desconoce el principio de",
+   "opciones": [
+    "procedencia.",
+    "orden original.",
+    "eficiencia administrativa."
+   ],
+   "clave": 1,
+   "just": "El principio de orden original exige conservar los documentos en la secuencia en que se produjeron en el trámite; el de procedencia implica no mezclar documentos de distintas dependencias productoras.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE7-05",
+   "comp": "CE",
+   "ind": "CE7",
+   "eje": "Eliminación documental",
+   "enunciado": "Una dependencia quiere eliminar cajas de documentos que, según la TRD convalidada, cumplieron su tiempo de retención y tienen disposición final de eliminación. Para hacerlo de forma válida debe",
+   "opciones": [
+    "destruir los documentos directamente, pues la TRD ya autoriza la eliminación.",
+    "seguir el procedimiento de eliminación: inventario, aprobación de la instancia competente, publicidad del inventario y acta de eliminación.",
+    "digitalizar los documentos y luego destruirlos sin más trámite."
+   ],
+   "clave": 1,
+   "just": "La normativa del Archivo General de la Nación exige un procedimiento documentado de eliminación con inventario, aprobación del comité competente, publicación y acta; la TRD por sí sola no basta.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE7-06",
+   "comp": "CE",
+   "ind": "CE7",
+   "eje": "Documento electrónico de archivo",
+   "enunciado": "Una seccional escanea informes firmados en papel y los guarda en una carpeta compartida sin metadatos ni control de versiones. Desde la gestión del documento electrónico, la mayor debilidad es que no se garantizan características como la",
+   "opciones": [
+    "autenticidad, integridad y fiabilidad del documento.",
+    "rapidez de consulta de los archivos.",
+    "reducción de costos de almacenamiento."
+   ],
+   "clave": 0,
+   "just": "El documento electrónico de archivo debe preservar autenticidad, integridad, fiabilidad y disponibilidad, lo que exige metadatos y controles; B y C son beneficios operativos.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE8-01",
+   "comp": "CE",
+   "ind": "CE8",
+   "eje": "Principios de auditoría",
+   "enunciado": "Para el programa de auditorías internas se propone que la responsable del proceso de gestión documental audite su propio proceso, porque es quien mejor lo conoce. Según ISO 19011, esta propuesta afecta el principio de",
+   "opciones": [
+    "confidencialidad.",
+    "independencia.",
+    "enfoque basado en la evidencia."
+   ],
+   "clave": 1,
+   "just": "ISO 19011 incluye la independencia: los auditores deben ser independientes de la actividad auditada para asegurar objetividad e imparcialidad de los hallazgos.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE8-02",
+   "comp": "CE",
+   "ind": "CE8",
+   "eje": "Hallazgos de auditoría",
+   "enunciado": "Un auditor revisa 20 registros de calibración y encuentra que 4 no tienen la firma de aprobación exigida por el procedimiento. Para redactar una no conformidad bien fundamentada debe incluir",
+   "opciones": [
+    "su opinión sobre la actitud del líder del proceso.",
+    "el requisito incumplido, la evidencia objetiva verificable y la descripción del incumplimiento.",
+    "una recomendación de sanción para los responsables."
+   ],
+   "clave": 1,
+   "just": "Un hallazgo resulta de evaluar la evidencia frente a los criterios; la no conformidad se redacta con requisito, evidencia y descripción del incumplimiento, sin juicios personales.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE8-03",
+   "comp": "CE",
+   "ind": "CE8",
+   "eje": "Tipos de indicadores",
+   "enunciado": "Un proceso planificó entregar 1.200 dictámenes en el trimestre y entregó 1.140. El indicador que expresa directamente el grado de cumplimiento de lo planificado es de",
+   "opciones": [
+    "eficacia.",
+    "eficiencia.",
+    "impacto."
+   ],
+   "clave": 0,
+   "just": "La eficacia mide el logro de resultados planificados (1.140/1.200 = 95 %). La eficiencia relaciona resultados con recursos y el impacto, efectos en el entorno.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE8-04",
+   "comp": "CE",
+   "ind": "CE8",
+   "eje": "Cálculo de indicadores",
+   "enunciado": "En un mes, una seccional recibió 250 solicitudes; 200 se atendieron dentro del término, 30 fuera de término y 20 siguen pendientes. El indicador de oportunidad, definido como solicitudes atendidas dentro del término sobre solicitudes recibidas, es",
+   "opciones": [
+    "80 %.",
+    "86,9 %.",
+    "92 %."
+   ],
+   "clave": 0,
+   "just": "200/250 = 80 %. El 86,9 % resulta de dividir 200 entre las 230 atendidas, lo que cambia la definición del indicador; 92 % suma atendidas a tiempo y pendientes.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE8-05",
+   "comp": "CE",
+   "ind": "CE8",
+   "eje": "Programa de auditoría basado en riesgos",
+   "enunciado": "Al planificar el programa anual de auditorías internas con recursos limitados, la coordinación del SIG debe priorizar los procesos. El criterio más adecuado según ISO 19011 es",
+   "opciones": [
+    "auditar todos los procesos con la misma frecuencia y duración.",
+    "considerar la importancia de los procesos, los riesgos, los cambios y los resultados de auditorías previas.",
+    "auditar solo los procesos que no tuvieron hallazgos el año anterior."
+   ],
+   "clave": 1,
+   "just": "ISO 19011 propone un enfoque basado en riesgos para definir alcance, frecuencia y recursos del programa de auditoría.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CE8-06",
+   "comp": "CE",
+   "ind": "CE8",
+   "eje": "Mejora continua",
+   "enunciado": "Tras cerrar una acción correctiva, el indicador de errores en informes no mejora en los dos meses siguientes. La conclusión más adecuada es que",
+   "opciones": [
+    "la acción fue eficaz porque se ejecutaron todas las tareas previstas.",
+    "la acción no fue eficaz y debe revisarse el análisis de causas y el plan.",
+    "el indicador está mal diseñado y debe eliminarse."
+   ],
+   "clave": 1,
+   "just": "La eficacia se demuestra con resultados, no con tareas ejecutadas. Si el problema persiste, se reabre el análisis de causas; eliminar el indicador ocultaría el problema.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA1-01",
+   "comp": "HA",
+   "ind": "HA1",
+   "eje": "Priorización con base en datos",
+   "enunciado": "La dirección regional puede asignar un perito adicional a una sola seccional. Los datos del mes muestran: Seccional A, 120 casos pendientes y 4 peritos; Seccional B, 90 pendientes y 2 peritos; Seccional C, 40 pendientes y 2 peritos. Si el criterio es reducir la mayor carga por perito, la asignación debe hacerse a la",
+   "opciones": [
+    "Seccional A, porque tiene el mayor número absoluto de casos pendientes.",
+    "Seccional B, porque tiene la mayor carga por perito (45 casos).",
+    "Seccional C, porque con un perito más podría quedar al día más rápido."
+   ],
+   "clave": 1,
+   "just": "Carga por perito: A = 30, B = 45, C = 20. Con el criterio definido, B es la prioridad. A confunde el total con la carga relativa; C cambia el criterio.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA1-02",
+   "comp": "HA",
+   "ind": "HA1",
+   "eje": "Identificación de causas",
+   "enunciado": "Las quejas de usuarios de una sede aumentaron 40 % en el último trimestre. Al revisar los registros, el 70 % de las quejas se refiere a tiempos de espera en la franja de 7:00 a 9:00 a. m., cuando solo hay un funcionario en ventanilla. Antes de proponer una solución, el análisis más pertinente indica que",
+   "opciones": [
+    "el problema principal está asociado a la capacidad de atención en la franja de mayor demanda.",
+    "los usuarios presentan quejas porque desconocen los procedimientos de la entidad.",
+    "el aumento de quejas obedece al desempeño general deficiente de todos los funcionarios de la sede."
+   ],
+   "clave": 0,
+   "just": "Los datos concentran las quejas en una franja con capacidad limitada. B no se apoya en la información y C generaliza sin evidencia.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA1-03",
+   "comp": "HA",
+   "ind": "HA1",
+   "eje": "Gestión de prioridades",
+   "enunciado": "Un profesional tiene hoy tres asuntos: (1) responder un requerimiento judicial que vence mañana y cuyo incumplimiento puede generar sanción; (2) actualizar una presentación para un comité dentro de dos semanas; (3) revisar correos informativos sin plazo. Con base en urgencia e impacto, el orden más adecuado de atención es",
+   "opciones": [
+    "3, 1, 2.",
+    "1, 2, 3.",
+    "2, 1, 3."
+   ],
+   "clave": 1,
+   "just": "El requerimiento judicial combina alta urgencia y alto impacto; luego la tarea con plazo definido; por último lo informativo sin plazo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA1-04",
+   "comp": "HA",
+   "ind": "HA1",
+   "eje": "Solución de problemas",
+   "enunciado": "Por segunda vez en el año, un laboratorio suspendió análisis por falta de reactivos. La revisión muestra que el proceso de compra se inicia solo cuando el inventario llega a cero y que el trámite contractual tarda en promedio 45 días. La solución que ataca la causa del problema es",
+   "opciones": [
+    "solicitar préstamos de reactivos a otros laboratorios cada vez que se agoten.",
+    "establecer un punto de reorden basado en el consumo histórico y el tiempo de abastecimiento, y planificar las compras en el plan anual.",
+    "pedir a los peritos que racionen el uso de reactivos."
+   ],
+   "clave": 1,
+   "just": "La causa es iniciar la compra sin considerar consumo y tiempo de abastecimiento. A y C son paliativos que no cambian la planificación.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA1-05",
+   "comp": "HA",
+   "ind": "HA1",
+   "eje": "Verificación de información",
+   "enunciado": "Para un informe de gestión, el profesional recibe dos reportes de la misma seccional con cifras distintas de necropsias realizadas en el mismo periodo (312 y 298). La acción más adecuada antes de consolidar el informe es",
+   "opciones": [
+    "promediar las dos cifras para reducir el error.",
+    "usar la cifra mayor para mostrar mejor gestión.",
+    "verificar la fuente primaria, los criterios de corte y el periodo de cada reporte, y documentar la cifra validada."
+   ],
+   "clave": 2,
+   "just": "Ante datos inconsistentes se verifica la fuente y los criterios antes de decidir; promediar o elegir por conveniencia compromete la confiabilidad del informe.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA1-06",
+   "comp": "HA",
+   "ind": "HA1",
+   "eje": "Evaluación de alternativas",
+   "enunciado": "Para capacitar a 180 servidores de seis seccionales en el nuevo procedimiento de registro, se evalúan: (A) talleres presenciales en cada sede, con costo alto y cobertura total en tres meses; (B) curso virtual con evaluación, costo bajo y cobertura total en un mes; (C) envío del procedimiento por correo, sin costo y sin verificación de comprensión. Si se requiere cobertura total, rapidez y evidencia de aprendizaje al menor costo, la mejor alternativa es",
+   "opciones": [
+    "A.",
+    "B.",
+    "C."
+   ],
+   "clave": 1,
+   "just": "B cumple los tres criterios: cobertura total en menos tiempo, evidencia mediante evaluación y menor costo que A. C no verifica comprensión.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA2-01",
+   "comp": "HA",
+   "ind": "HA2",
+   "eje": "Comprensión de texto técnico",
+   "enunciado": "Lea el texto: 'El laboratorio conservará los registros técnicos de cada análisis durante el tiempo definido en la tabla de retención. Cuando un resultado sea objeto de controversia judicial, el plazo de conservación se contará a partir de la ejecutoria de la decisión que ponga fin al proceso'. Si un análisis de 2020 está en un proceso que terminó con decisión ejecutoriada en 2025, se concluye que el plazo de conservación",
+   "opciones": [
+    "se cuenta desde 2020, año del análisis.",
+    "se cuenta desde 2025, año de la ejecutoria.",
+    "se suspende indefinidamente mientras exista el proceso."
+   ],
+   "clave": 1,
+   "just": "El texto establece una regla especial: en controversias judiciales el plazo se cuenta desde la ejecutoria. C no es lo que dice el texto.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA2-02",
+   "comp": "HA",
+   "ind": "HA2",
+   "eje": "Inferencia",
+   "enunciado": "Lea el texto: 'Solo podrán emitir informes en el área quienes hayan aprobado la evaluación de competencia y tengan autorización vigente del coordinador. La autorización caduca a los dos años y se renueva tras una nueva evaluación'. Un perito aprobó la evaluación hace tres años y no ha vuelto a ser evaluado. Según el texto,",
+   "opciones": [
+    "puede emitir informes, porque aprobó la evaluación de competencia.",
+    "no puede emitir informes, porque su autorización caducó y no ha sido renovada.",
+    "puede emitir informes si el coordinador lo autoriza verbalmente."
+   ],
+   "clave": 1,
+   "just": "La autorización caduca a los dos años y requiere nueva evaluación; ambos requisitos son concurrentes. A ignora la caducidad y C contradice el texto.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA2-03",
+   "comp": "HA",
+   "ind": "HA2",
+   "eje": "Idea principal",
+   "enunciado": "Lea el texto: 'La medición de la satisfacción no debe limitarse a encuestas al finalizar el servicio. Las quejas, las felicitaciones, los reprocesos y los tiempos de respuesta también informan sobre la percepción del usuario y, analizados en conjunto, permiten decisiones más acertadas'. La idea principal del texto es que",
+   "opciones": [
+    "las encuestas de satisfacción deben eliminarse por ser poco confiables.",
+    "la satisfacción del usuario debe evaluarse combinando varias fuentes de información.",
+    "las quejas son la única fuente válida de percepción del usuario."
+   ],
+   "clave": 1,
+   "just": "El texto propone complementar las encuestas con otras fuentes. A y C son conclusiones extremas que el texto no sostiene.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA2-04",
+   "comp": "HA",
+   "ind": "HA2",
+   "eje": "Condiciones y excepciones",
+   "enunciado": "Lea el texto: 'Las muestras se analizarán en orden de llegada. Se exceptúan las solicitudes con medida de aseguramiento en curso o con término judicial inferior a cinco días, que se atenderán con prioridad'. Llegan en este orden: muestra 1, ordinaria; muestra 2, con término judicial de 3 días; muestra 3, ordinaria. El orden correcto de atención es",
+   "opciones": [
+    "1, 2, 3.",
+    "2, 1, 3.",
+    "2, 3, 1."
+   ],
+   "clave": 1,
+   "just": "La muestra 2 encaja en la excepción (término menor a 5 días) y se atiende primero; las ordinarias siguen el orden de llegada: 1 y luego 3.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA2-05",
+   "comp": "HA",
+   "ind": "HA2",
+   "eje": "Interpretación normativa",
+   "enunciado": "Lea el texto: 'El servidor que advierta un riesgo para la imparcialidad deberá informarlo por escrito al coordinador antes de iniciar la actividad. El coordinador decidirá la reasignación dentro de las veinticuatro horas siguientes'. Un perito detecta el riesgo cuando ya inició el análisis. De acuerdo con el texto, lo más coherente es que",
+   "opciones": [
+    "termine el análisis y luego informe, porque la norma solo se refiere a riesgos advertidos antes de iniciar.",
+    "informe de inmediato por escrito al coordinador, pues el propósito de la norma es que el coordinador decida sobre la reasignación.",
+    "suspenda el análisis y lo reasigne él mismo a un colega de confianza."
+   ],
+   "clave": 1,
+   "just": "La finalidad del texto es que el coordinador conozca y decida sobre el riesgo; ante un caso no previsto literalmente, se informa de inmediato. C usurpa la decisión del coordinador.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "HA2-06",
+   "comp": "HA",
+   "ind": "HA2",
+   "eje": "Relación entre ideas",
+   "enunciado": "Lea el texto: 'Aunque la digitalización reduce el espacio de almacenamiento, no reemplaza la conservación del documento original cuando la tabla de retención así lo exige; en esos casos, la imagen digital cumple fines de consulta'. Según el texto, la relación entre digitalización y conservación del original es que",
+   "opciones": [
+    "la digitalización siempre permite eliminar el original.",
+    "la digitalización complementa la consulta, pero no sustituye la conservación del original cuando la TRD la exige.",
+    "la conservación del original impide digitalizar los documentos."
+   ],
+   "clave": 1,
+   "just": "El conector 'aunque' introduce una limitación: la imagen sirve para consulta y no reemplaza al original exigido por la TRD.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP1-01",
+   "comp": "AP",
+   "ind": "AP1",
+   "eje": "Razonamiento categórico",
+   "enunciado": "En un área se cumple que: 'Todos los peritos del área están certificados' y 'Algunas personas certificadas son auditores internos'. A partir de estas premisas, se puede afirmar con certeza que",
+   "opciones": [
+    "algunos peritos del área son auditores internos.",
+    "ningún perito del área es auditor interno.",
+    "no se puede concluir con certeza si algún perito del área es auditor interno."
+   ],
+   "clave": 2,
+   "just": "Los auditores certificados pueden estar fuera del grupo de peritos; las premisas no garantizan intersección entre peritos y auditores. A y B no se siguen necesariamente.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP1-02",
+   "comp": "AP",
+   "ind": "AP1",
+   "eje": "Silogismo",
+   "enunciado": "Se sabe que 'Todos los informes de toxicología pasan por revisión técnica' y que 'Ningún documento que pasa por revisión técnica se envía sin firma del revisor'. La conclusión válida es:",
+   "opciones": [
+    "Algunos informes de toxicología se envían sin firma del revisor.",
+    "Ningún informe de toxicología se envía sin firma del revisor.",
+    "Todos los documentos con firma del revisor son informes de toxicología."
+   ],
+   "clave": 1,
+   "just": "Si todos los A son B y ningún B es C, entonces ningún A es C. C invierte indebidamente la relación.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP1-03",
+   "comp": "AP",
+   "ind": "AP1",
+   "eje": "Ordenamiento de información",
+   "enunciado": "Cuatro seccionales entregaron su reporte mensual en momentos distintos. Villavicencio entregó antes que Arauca; Arauca entregó antes que Tunja; y Tunja entregó antes que Yopal. La seccional que entregó en segundo lugar fue",
+   "opciones": [
+    "Arauca.",
+    "Tunja.",
+    "Villavicencio."
+   ],
+   "clave": 0,
+   "just": "El orden es Villavicencio, Arauca, Tunja y Yopal; por tanto Arauca fue segunda.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP1-04",
+   "comp": "AP",
+   "ind": "AP1",
+   "eje": "Razonamiento condicional",
+   "enunciado": "Un procedimiento establece: 'Si el equipo está calibrado, entonces el resultado se considera válido'. En una revisión se determina que un resultado no se considera válido. Con base solo en esta información, se concluye que",
+   "opciones": [
+    "el equipo no estaba calibrado.",
+    "el equipo estaba calibrado, pero el analista cometió un error.",
+    "no se puede concluir nada sobre la calibración del equipo."
+   ],
+   "clave": 0,
+   "just": "Por modus tollens: si P→Q y no Q, entonces no P. B introduce información ajena; C desconoce la inferencia válida.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP1-05",
+   "comp": "AP",
+   "ind": "AP1",
+   "eje": "Conjuntos",
+   "enunciado": "De 40 servidores de una dirección regional, 25 tienen formación en sistemas de gestión de calidad, 18 en metrología y 8 en ambas áreas. ¿Cuántos servidores no tienen formación en ninguna de las dos áreas?",
+   "opciones": [
+    "5.",
+    "7.",
+    "13."
+   ],
+   "clave": 0,
+   "just": "Con al menos una formación: 25 + 18 − 8 = 35. Sin ninguna: 40 − 35 = 5.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP1-06",
+   "comp": "AP",
+   "ind": "AP1",
+   "eje": "Razonamiento categórico",
+   "enunciado": "Se cumple que 'Ningún documento reservado se publica en la página web' y que 'Algunos informes son documentos reservados'. La conclusión que se sigue necesariamente es:",
+   "opciones": [
+    "Ningún informe se publica en la página web.",
+    "Algunos informes no se publican en la página web.",
+    "Todos los documentos no publicados son reservados."
+   ],
+   "clave": 1,
+   "just": "Los informes que son reservados no se publican, de modo que algunos informes no se publican. A generaliza y C invierte la relación.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP2-01",
+   "comp": "AP",
+   "ind": "AP2",
+   "eje": "Ponderación de puntajes",
+   "enunciado": "Un aspirante de los grupos 1 y 2 obtuvo 80,00 en competencias funcionales y 70,00 en competencias comportamentales. Con ponderaciones de 65 % y 35 %, respectivamente, su puntaje ponderado es",
+   "opciones": [
+    "75,00.",
+    "76,50.",
+    "78,25."
+   ],
+   "clave": 1,
+   "just": "80 × 0,65 = 52,00 y 70 × 0,35 = 24,50; total 76,50. 75,00 es el promedio simple.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP2-02",
+   "comp": "AP",
+   "ind": "AP2",
+   "eje": "Variación porcentual",
+   "enunciado": "Una seccional emitió 4.000 dictámenes en 2025 y 4.600 en 2026. La variación porcentual de 2026 respecto de 2025 fue",
+   "opciones": [
+    "13 %.",
+    "15 %.",
+    "60 %."
+   ],
+   "clave": 1,
+   "just": "(4.600 − 4.000) / 4.000 = 600 / 4.000 = 15 %. 13 % resulta de dividir por 4.600.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP2-03",
+   "comp": "AP",
+   "ind": "AP2",
+   "eje": "Proporcionalidad compuesta",
+   "enunciado": "Tres peritos elaboran 45 informes en 5 días. Si mantienen el mismo rendimiento, ¿cuántos informes elaborarían 5 peritos en 6 días?",
+   "opciones": [
+    "75.",
+    "90.",
+    "108."
+   ],
+   "clave": 1,
+   "just": "Rendimiento: 45 / (3 × 5) = 3 informes por perito-día. 5 × 6 × 3 = 90.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP2-04",
+   "comp": "AP",
+   "ind": "AP2",
+   "eje": "Promedio ponderado",
+   "enunciado": "La seccional A atendió 30 casos con un tiempo promedio de 4 días y la seccional B atendió 20 casos con un tiempo promedio de 9 días. El tiempo promedio de atención de las dos seccionales juntas es",
+   "opciones": [
+    "6,0 días.",
+    "6,5 días.",
+    "7,0 días."
+   ],
+   "clave": 0,
+   "just": "(30 × 4 + 20 × 9) / 50 = (120 + 180) / 50 = 6,0 días. 6,5 es el promedio simple de los promedios.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP2-05",
+   "comp": "AP",
+   "ind": "AP2",
+   "eje": "Porcentaje inverso",
+   "enunciado": "Después de una reducción del 20 %, el presupuesto de capacitación de una regional quedó en 48 millones de pesos. ¿Cuál era el presupuesto inicial?",
+   "opciones": [
+    "57,6 millones.",
+    "60 millones.",
+    "68 millones."
+   ],
+   "clave": 1,
+   "just": "Si 80 % equivale a 48, el 100 % es 48 / 0,8 = 60. 57,6 resulta de sumar el 20 % a 48.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "AP2-06",
+   "comp": "AP",
+   "ind": "AP2",
+   "eje": "Interpretación de tablas",
+   "enunciado": "El cumplimiento trimestral del indicador de oportunidad fue: T1 82 %, T2 85 %, T3 91 % y T4 89 %. El mayor aumento entre trimestres consecutivos se presentó entre",
+   "opciones": [
+    "T1 y T2.",
+    "T2 y T3.",
+    "T3 y T4."
+   ],
+   "clave": 1,
+   "just": "Variaciones: T1→T2 = +3, T2→T3 = +6, T3→T4 = −2 puntos porcentuales.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC1-01",
+   "comp": "CC",
+   "ind": "CC1",
+   "eje": "Aprendizaje continuo – actualización",
+   "enunciado": "La entidad adopta una nueva versión de la norma técnica que rige su proceso y usted percibe que varios cambios afectan sus funciones diarias, aunque aún no se ha programado capacitación formal. Ante esta situación, usted",
+   "opciones": [
+    "estudia por iniciativa propia la nueva versión, identifica los cambios que impactan su trabajo y comparte un resumen con su equipo.",
+    "espera la capacitación oficial para evitar interpretaciones equivocadas de la norma.",
+    "continúa aplicando la versión anterior hasta que el coordinador indique los cambios concretos."
+   ],
+   "clave": 0,
+   "just": "La competencia se evidencia en la búsqueda autónoma de conocimiento para mejorar el desempeño y en compartirlo. B y C son conductas pasivas que dependen de terceros.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC1-02",
+   "comp": "CC",
+   "ind": "CC1",
+   "eje": "Aprendizaje continuo – retroalimentación",
+   "enunciado": "En la revisión de un informe, su coordinador señala errores en la forma como presentó el análisis de datos y le sugiere otra metodología que usted no domina. Frente a esta retroalimentación, usted",
+   "opciones": [
+    "explica las razones de su metodología para que el coordinador comprenda su enfoque.",
+    "acoge las observaciones, busca formarse en la metodología sugerida y la aplica en los siguientes informes.",
+    "corrige el informe actual siguiendo las indicaciones, sin modificar su forma habitual de trabajo."
+   ],
+   "clave": 1,
+   "just": "Aprender de la retroalimentación implica incorporar mejoras de forma sostenida. A prioriza justificarse; C corrige puntualmente sin aprender.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC1-03",
+   "comp": "CC",
+   "ind": "CC1",
+   "eje": "Aprendizaje continuo – lecciones aprendidas",
+   "enunciado": "Un procedimiento que usted lideró presentó fallas durante una auditoría externa. Una vez superada la situación, usted",
+   "opciones": [
+    "documenta qué falló, por qué y qué haría distinto, y lo socializa para que otras seccionales eviten el mismo error.",
+    "archiva los soportes de la auditoría y continúa con las tareas pendientes, pues el hallazgo ya fue cerrado.",
+    "solicita que en próximas auditorías se asigne a otra persona para evitar nuevos hallazgos."
+   ],
+   "clave": 0,
+   "just": "Convertir los errores en lecciones aprendidas compartidas refleja aprendizaje continuo. B no extrae aprendizaje y C evita la situación en vez de aprender.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC1-04",
+   "comp": "CC",
+   "ind": "CC1",
+   "eje": "Aprendizaje continuo – nuevas herramientas",
+   "enunciado": "Se implementa una herramienta digital para registrar las actividades del área y usted tiene dificultades para usarla, mientras un compañero más joven la maneja con facilidad. En esta situación, usted",
+   "opciones": [
+    "sigue registrando en el formato anterior y le pide al compañero que traslade la información.",
+    "le pide al compañero que le enseñe, practica con casos reales y consulta el manual hasta usar la herramienta con autonomía.",
+    "informa al coordinador que la herramienta no es adecuada para su forma de trabajo."
+   ],
+   "clave": 1,
+   "just": "La competencia implica disposición a adquirir nuevas habilidades y aprender de otros. A traslada su responsabilidad; C rechaza el aprendizaje.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC1-05",
+   "comp": "CC",
+   "ind": "CC1",
+   "eje": "Aprendizaje continuo – transferencia",
+   "enunciado": "Usted asistió a un curso sobre análisis de riesgos financiado por la entidad. Al regresar, observa que el método aprendido podría mejorar la matriz de riesgos de su proceso. Usted",
+   "opciones": [
+    "guarda el material del curso para consultarlo cuando sea necesario.",
+    "propone al líder del proceso aplicar el método en la próxima actualización de la matriz y ofrece acompañar al equipo.",
+    "aplica el método solo en las tareas que dependen directamente de usted."
+   ],
+   "clave": 1,
+   "just": "Transferir lo aprendido al trabajo y al equipo es una conducta clave del aprendizaje continuo. A y C limitan el aprovechamiento del conocimiento.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC2-01",
+   "comp": "CC",
+   "ind": "CC2",
+   "eje": "Orientación a resultados – metas",
+   "enunciado": "Faltando un mes para el cierre del periodo, el indicador de su área está 12 puntos por debajo de la meta debido a un aumento imprevisto de solicitudes. Usted",
+   "opciones": [
+    "informa que la meta no se cumplirá por causas externas y propone ajustarla para el próximo periodo.",
+    "analiza la carga pendiente, reorganiza prioridades con el equipo y propone acciones concretas para acercarse a la meta, informando el avance.",
+    "incrementa su jornada personal para atender la mayor cantidad posible de solicitudes."
+   ],
+   "clave": 1,
+   "just": "La orientación a resultados implica planificar y ajustar acciones para cumplir compromisos, con seguimiento. A se limita a justificar; C es un esfuerzo individual sin estrategia.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC2-02",
+   "comp": "CC",
+   "ind": "CC2",
+   "eje": "Orientación a resultados – calidad y oportunidad",
+   "enunciado": "Le asignan entregar un informe consolidado en tres días; al revisarlo detecta que dos seccionales enviaron datos incompletos. Para cumplir con calidad y en el plazo, usted",
+   "opciones": [
+    "entrega el informe con los datos disponibles y una nota de que está incompleto.",
+    "solicita de inmediato a las seccionales los datos faltantes con un plazo definido, avanza en lo demás y valida la información antes de entregar.",
+    "pide una ampliación del plazo hasta que todas las seccionales envíen la información completa."
+   ],
+   "clave": 1,
+   "just": "Se gestiona activamente lo necesario para cumplir con calidad y oportunidad. A sacrifica calidad; C sacrifica oportunidad sin gestionar.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC2-03",
+   "comp": "CC",
+   "ind": "CC2",
+   "eje": "Orientación a resultados – uso de recursos",
+   "enunciado": "Para un proyecto de su área cuenta con un presupuesto limitado y dos alternativas que logran el mismo resultado, una más costosa pero con mejor presentación. Usted",
+   "opciones": [
+    "elige la alternativa más costosa para dar una mejor imagen del área.",
+    "elige la alternativa que logra el resultado con el uso más eficiente de los recursos y destina el ahorro a otras necesidades del proyecto.",
+    "consulta con cada miembro del equipo y elige la opción más votada."
+   ],
+   "clave": 1,
+   "just": "Orientarse a resultados incluye usar los recursos de forma eficiente. A prioriza la imagen; C delega la decisión sin criterio técnico.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC2-04",
+   "comp": "CC",
+   "ind": "CC2",
+   "eje": "Orientación a resultados – obstáculos",
+   "enunciado": "El sistema de información falla durante una semana y no puede registrar las actividades que miden su desempeño. Usted",
+   "opciones": [
+    "suspende el registro hasta que el sistema se restablezca.",
+    "implementa un registro alterno controlado, lo cruza con el sistema cuando se restablece y reporta la contingencia.",
+    "registra en el sistema las actividades de la semana usando estimaciones del promedio histórico."
+   ],
+   "clave": 1,
+   "just": "Superar obstáculos con alternativas confiables mantiene el resultado. A abandona el compromiso; C afecta la veracidad de la información.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC2-05",
+   "comp": "CC",
+   "ind": "CC2",
+   "eje": "Orientación a resultados – seguimiento",
+   "enunciado": "Su equipo acordó un plan de mejoramiento con cinco acciones y responsables. Dos semanas después, nadie ha reportado avances. Como responsable del seguimiento, usted",
+   "opciones": [
+    "espera la fecha final pactada para verificar el cumplimiento.",
+    "establece puntos de control, contacta a los responsables, identifica dificultades y acuerda ajustes para asegurar el cumplimiento.",
+    "asume personalmente las acciones atrasadas para no afectar el resultado."
+   ],
+   "clave": 1,
+   "just": "El seguimiento oportuno y la gestión de dificultades aseguran resultados. A es pasivo; C concentra el trabajo y no fortalece la responsabilidad del equipo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC3-01",
+   "comp": "CC",
+   "ind": "CC3",
+   "eje": "Orientación al usuario – necesidades",
+   "enunciado": "Una víctima llega muy angustiada a la sede preguntando por el estado de su caso, pero la información solicitada es reservada y solo puede entregarse a la autoridad. Usted",
+   "opciones": [
+    "le indica que no puede darle información y le pide que se dirija a la Fiscalía.",
+    "la escucha con respeto, le explica con lenguaje claro por qué la información es reservada y le orienta sobre a qué autoridad acudir y cómo hacerlo.",
+    "le comenta de manera informal el estado general del caso para tranquilizarla, sin entregarle documentos."
+   ],
+   "clave": 1,
+   "just": "La orientación al usuario combina trato digno, información clara y orientación efectiva dentro del marco legal. A es correcto en el fondo pero poco orientador; C vulnera la reserva.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC3-02",
+   "comp": "CC",
+   "ind": "CC3",
+   "eje": "Orientación al usuario – respuesta oportuna",
+   "enunciado": "Un fiscal llama molesto porque un informe que solicitó hace semanas no le ha llegado y tiene audiencia en dos días. Usted",
+   "opciones": [
+    "le explica que el retraso se debe a la alta carga del laboratorio y que debe esperar el turno.",
+    "verifica de inmediato el estado del caso, le informa con precisión qué falta y cuándo podrá tenerlo, y gestiona internamente la priorización si procede.",
+    "le sugiere que solicite aplazamiento de la audiencia mientras se emite el informe."
+   ],
+   "clave": 1,
+   "just": "Atender al usuario implica verificar, informar con precisión y gestionar soluciones. A y C trasladan el problema al usuario.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC3-03",
+   "comp": "CC",
+   "ind": "CC3",
+   "eje": "Orientación al usuario – lenguaje claro",
+   "enunciado": "Un ciudadano con baja escolaridad no entiende la citación que recibió para practicarse un examen. Usted",
+   "opciones": [
+    "le lee el texto completo de la citación de manera pausada.",
+    "le explica en palabras sencillas qué examen es, dónde, cuándo y qué debe llevar, y verifica que haya comprendido.",
+    "le recomienda que lo acompañe un familiar que le explique la citación."
+   ],
+   "clave": 1,
+   "just": "Adaptar la comunicación y verificar comprensión es orientación al usuario. A repite el lenguaje técnico; C delega en terceros la responsabilidad del servidor.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC3-04",
+   "comp": "CC",
+   "ind": "CC3",
+   "eje": "Orientación al usuario – mejora del servicio",
+   "enunciado": "Al analizar las PQRSD del semestre, usted observa que muchas quejas se deben a que los usuarios no saben qué documentos traer. Usted",
+   "opciones": [
+    "responde cada queja explicando los documentos requeridos.",
+    "propone una guía breve de requisitos en la página web y en la sede, y mide si las quejas disminuyen.",
+    "recomienda reforzar la atención en ventanilla con más personal."
+   ],
+   "clave": 1,
+   "just": "Usar la información de los usuarios para mejorar el servicio y medir el efecto es orientación al usuario con enfoque de mejora. A atiende caso a caso; C no ataca la causa.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC3-05",
+   "comp": "CC",
+   "ind": "CC3",
+   "eje": "Orientación al usuario – trato equitativo",
+   "enunciado": "En la sala de espera hay varias personas y un usuario conocido por los funcionarios pide que lo atiendan primero porque 'siempre lo atienden rápido'. Usted",
+   "opciones": [
+    "lo atiende primero para evitar un conflicto en la sala.",
+    "le explica amablemente que se atiende por orden de llegada, salvo las prioridades legales, y lo atiende en su turno.",
+    "le pide que regrese más tarde, cuando haya menos personas."
+   ],
+   "clave": 1,
+   "just": "Trato igualitario, respetuoso y transparente con todos los usuarios. A otorga privilegios; C le niega la atención.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC4-01",
+   "comp": "CC",
+   "ind": "CC4",
+   "eje": "Compromiso con la organización – prioridades institucionales",
+   "enunciado": "La dirección define como prioridad institucional reducir los tiempos de entrega de dictámenes, lo que implica cambiar la forma en que su área organiza el trabajo. Usted",
+   "opciones": [
+    "ajusta sus métodos de trabajo a la prioridad institucional y propone mejoras que contribuyan al objetivo.",
+    "continúa con la organización actual, pues ha dado buenos resultados para su área.",
+    "cumple los cambios mínimos exigidos mientras se evalúa si la medida funciona."
+   ],
+   "clave": 0,
+   "just": "El compromiso implica alinear el propio trabajo con los objetivos institucionales y aportar a ellos. B privilegia el interés del área; C es un cumplimiento mínimo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC4-02",
+   "comp": "CC",
+   "ind": "CC4",
+   "eje": "Compromiso con la organización – imagen institucional",
+   "enunciado": "En una reunión social, varias personas critican al Instituto con información falsa sobre la demora de los exámenes. Usted",
+   "opciones": [
+    "evita el tema para no comprometerse en una discusión.",
+    "aclara con respeto la información, explica de forma general cómo funciona el servicio sin revelar información reservada y orienta sobre los canales oficiales.",
+    "comparte detalles de casos específicos para demostrar que la entidad sí cumple."
+   ],
+   "clave": 1,
+   "just": "Defender la imagen institucional con información veraz y respetando la reserva refleja compromiso. A es pasivo; C vulnera la confidencialidad.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC4-03",
+   "comp": "CC",
+   "ind": "CC4",
+   "eje": "Compromiso con la organización – normas y lineamientos",
+   "enunciado": "Un nuevo lineamiento institucional le exige registrar información adicional en cada caso, lo que considera innecesario. Usted",
+   "opciones": [
+    "aplica el lineamiento y presenta por los canales formales una propuesta argumentada para simplificarlo.",
+    "omite el registro adicional cuando la carga de trabajo es alta.",
+    "aplica el lineamiento, pero comenta con sus compañeros que es una medida sin sentido."
+   ],
+   "clave": 0,
+   "just": "Cumplir los lineamientos y proponer mejoras por canales institucionales es compromiso con la organización. B incumple; C debilita el clima y la imagen interna.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC4-04",
+   "comp": "CC",
+   "ind": "CC4",
+   "eje": "Compromiso con la organización – más allá del rol",
+   "enunciado": "Una seccional de su regional enfrenta una emergencia y solicita apoyo para organizar el archivo de casos, actividad que no está entre sus funciones habituales, aunque tiene la experiencia para hacerlo. Usted",
+   "opciones": [
+    "indica que no es su función y sugiere que lo haga el área de archivo.",
+    "ofrece su apoyo, coordinándolo con su jefe para no afectar sus compromisos propios.",
+    "apoya a la seccional dejando en pausa sus tareas sin informar a su jefe."
+   ],
+   "clave": 1,
+   "just": "El compromiso con la organización implica disposición a apoyar necesidades institucionales de manera coordinada. A se limita al rol; C afecta sus compromisos sin coordinación.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC4-05",
+   "comp": "CC",
+   "ind": "CC4",
+   "eje": "Compromiso con la organización – recursos públicos",
+   "enunciado": "Usted nota que en su sede se dejan equipos encendidos toda la noche y que se imprimen documentos que podrían manejarse digitalmente. Usted",
+   "opciones": [
+    "apaga sus propios equipos y evita imprimir, sin intervenir en lo que hacen los demás.",
+    "propone medidas de uso racional de recursos al equipo, da ejemplo y lo reporta al responsable de la política de austeridad.",
+    "envía un correo general recordando que el desperdicio de recursos puede ser sancionado."
+   ],
+   "clave": 1,
+   "just": "Cuidar los recursos institucionales y promover su buen uso de manera constructiva refleja compromiso. A es individual y limitado; C es un enfoque punitivo sin propuesta.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC5-01",
+   "comp": "CC",
+   "ind": "CC5",
+   "eje": "Trabajo en equipo – objetivos comunes",
+   "enunciado": "Su equipo debe entregar un informe conjunto y usted terminó su parte antes del plazo, mientras un compañero tiene retrasos por exceso de carga. Usted",
+   "opciones": [
+    "entrega su parte y deja constancia de que el retraso no depende de usted.",
+    "ofrece apoyo a su compañero en lo que pueda aportar, para que el equipo cumpla con el informe completo.",
+    "informa al coordinador del retraso del compañero para que tome medidas."
+   ],
+   "clave": 1,
+   "just": "Trabajar en equipo es priorizar el objetivo común y colaborar. A se desentiende; C traslada el problema sin colaborar.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC5-02",
+   "comp": "CC",
+   "ind": "CC5",
+   "eje": "Trabajo en equipo – manejo de desacuerdos",
+   "enunciado": "En una reunión, un compañero propone un procedimiento que usted considera menos eficiente que el suyo, y el grupo parece inclinarse por la propuesta del compañero. Usted",
+   "opciones": [
+    "presenta sus argumentos con datos, escucha los del compañero y acoge la decisión del grupo, aportando para que funcione.",
+    "acepta en silencio la propuesta para evitar conflictos.",
+    "insiste en su propuesta hasta que el coordinador tome la decisión."
+   ],
+   "clave": 0,
+   "just": "Aportar ideas con argumentos, escuchar y respaldar la decisión colectiva es trabajo en equipo. B no aporta; C antepone la posición personal.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC5-03",
+   "comp": "CC",
+   "ind": "CC5",
+   "eje": "Trabajo en equipo – compartir información",
+   "enunciado": "Usted elaboró una plantilla que le ahorra varias horas a la semana en la consolidación de datos, y sus compañeros siguen haciendo el proceso manualmente. Usted",
+   "opciones": [
+    "sigue usando la plantilla y la comparte si alguien se la pide.",
+    "comparte la plantilla con el equipo, explica cómo usarla y recoge sugerencias para mejorarla.",
+    "presenta la plantilla al coordinador como un logro personal para su evaluación de desempeño."
+   ],
+   "clave": 1,
+   "just": "Compartir conocimiento y herramientas fortalece al equipo. A es reactivo; C prioriza el reconocimiento individual.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC5-04",
+   "comp": "CC",
+   "ind": "CC5",
+   "eje": "Trabajo en equipo – reconocimiento",
+   "enunciado": "El director felicita públicamente a usted por un proyecto que, en realidad, se logró con el aporte significativo de dos compañeros. Usted",
+   "opciones": [
+    "agradece la felicitación sin hacer comentarios adicionales.",
+    "agradece y reconoce públicamente el aporte de sus compañeros en el resultado.",
+    "agradece y luego, en privado, comenta a sus compañeros que el mérito también fue de ellos."
+   ],
+   "clave": 1,
+   "just": "Reconocer los aportes de los demás es una conducta de trabajo en equipo. A omite el reconocimiento; C lo limita al ámbito privado.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CC5-05",
+   "comp": "CC",
+   "ind": "CC5",
+   "eje": "Trabajo en equipo – integración",
+   "enunciado": "Llega al equipo una profesional nueva que aún no conoce los procedimientos y le cuesta integrarse. Usted",
+   "opciones": [
+    "le comparte los documentos del proceso para que los estudie por su cuenta.",
+    "la orienta en los procedimientos, la incluye en las actividades del equipo y le asigna tareas en conjunto mientras se adapta.",
+    "espera que el coordinador defina su plan de inducción."
+   ],
+   "clave": 1,
+   "just": "Facilitar la integración y colaboración de nuevos integrantes refleja trabajo en equipo. A y C dejan la integración a la persona o a terceros.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CT1-01",
+   "comp": "CT",
+   "ind": "CT1",
+   "eje": "Adaptación al cambio – nuevos procesos",
+   "enunciado": "La entidad decide centralizar en la dirección regional una actividad que antes realizaba su seccional, lo que cambia sus funciones y rutinas. Usted",
+   "opciones": [
+    "acepta el cambio, identifica cómo aportar en el nuevo esquema y ajusta sus actividades para que la transición sea ordenada.",
+    "manifiesta su desacuerdo y continúa con la actividad mientras se formaliza el cambio.",
+    "espera a que le asignen nuevas funciones por escrito antes de hacer cualquier ajuste."
+   ],
+   "clave": 0,
+   "just": "Adaptarse al cambio implica aceptarlo, entenderlo y contribuir a la transición. B se resiste; C es pasivo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CT1-02",
+   "comp": "CT",
+   "ind": "CT1",
+   "eje": "Adaptación al cambio – incertidumbre",
+   "enunciado": "Se anuncia una reestructuración del área y circulan rumores que generan inquietud en el equipo. Usted",
+   "opciones": [
+    "se informa por los canales oficiales, mantiene su desempeño y ayuda a que el equipo se enfoque en sus compromisos.",
+    "comenta con sus compañeros las versiones que ha escuchado para que todos estén preparados.",
+    "reduce su dedicación a proyectos de largo plazo hasta conocer su nueva ubicación."
+   ],
+   "clave": 0,
+   "just": "Manejar la incertidumbre con información confiable y mantener el desempeño refleja adaptación. B alimenta rumores; C disminuye el compromiso.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CT1-03",
+   "comp": "CT",
+   "ind": "CT1",
+   "eje": "Adaptación al cambio – flexibilidad",
+   "enunciado": "Por una contingencia, le piden atender durante un mes a usuarios en una sede diferente, con horarios y procedimientos distintos a los suyos. Usted",
+   "opciones": [
+    "acepta, conoce rápidamente los procedimientos de la sede y ajusta su forma de trabajo para atender bien a los usuarios.",
+    "acepta, pero aplica sus propios procedimientos porque los conoce mejor.",
+    "solicita que se asigne a otra persona con mayor experiencia en esa sede."
+   ],
+   "clave": 0,
+   "just": "Ajustar el comportamiento a nuevas condiciones de trabajo es la conducta esperada. B no se adapta; C evita el cambio.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CT1-04",
+   "comp": "CT",
+   "ind": "CT1",
+   "eje": "Adaptación al cambio – tecnología",
+   "enunciado": "Se reemplaza el sistema de radicación de documentos por uno nuevo que inicialmente hace más lento su trabajo. Usted",
+   "opciones": [
+    "usa el nuevo sistema, reporta las dificultades encontradas con propuestas de mejora y busca optimizar su manejo.",
+    "sigue usando el sistema anterior en paralelo para no perder productividad.",
+    "reporta que el nuevo sistema no funciona y pide regresar al anterior."
+   ],
+   "clave": 0,
+   "just": "Adaptarse implica asumir la herramienta y aportar a su mejora. B duplica procesos y resiste; C rechaza el cambio.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CT1-05",
+   "comp": "CT",
+   "ind": "CT1",
+   "eje": "Adaptación al cambio – nuevas prioridades",
+   "enunciado": "A mitad de semana, la dirección cambia las prioridades y le pide suspender el informe en que trabajaba para atender un requerimiento urgente de un ente de control. Usted",
+   "opciones": [
+    "reorganiza su agenda, atiende el requerimiento urgente y acuerda una nueva fecha para el informe suspendido.",
+    "termina primero el informe, pues ya está avanzado, y luego atiende el requerimiento.",
+    "atiende ambos al mismo tiempo para no incumplir ninguno."
+   ],
+   "clave": 0,
+   "just": "Reorganizar prioridades con rapidez y gestionar los compromisos afectados es adaptación al cambio. B ignora la nueva prioridad; C arriesga la calidad de ambos.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CN1-01",
+   "comp": "CN",
+   "ind": "CN1",
+   "eje": "Aporte técnico-profesional – conceptos técnicos",
+   "enunciado": "El director le pide un concepto técnico sobre si conviene acreditar un nuevo ensayo, y debe entregarlo en una semana. Usted",
+   "opciones": [
+    "elabora el concepto con base en la normativa aplicable, los requisitos técnicos, los costos y los riesgos, presentando alternativas y una recomendación fundamentada.",
+    "consulta lo que han hecho otras entidades y recomienda seguir su ejemplo.",
+    "presenta un resumen de los requisitos de la norma para que el director decida."
+   ],
+   "clave": 0,
+   "just": "El aporte técnico-profesional se refleja en conceptos fundamentados, con análisis de alternativas y recomendaciones. B carece de análisis propio; C no aporta recomendación.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CN1-02",
+   "comp": "CN",
+   "ind": "CN1",
+   "eje": "Aporte técnico-profesional – solución de problemas complejos",
+   "enunciado": "En el área se presentan resultados discrepantes en un ensayo y nadie ha identificado la causa. Usted, como profesional del proceso,",
+   "opciones": [
+    "propone una metodología de análisis de causas con datos, coordina las pruebas necesarias y presenta conclusiones y acciones.",
+    "sugiere repetir los ensayos hasta que los resultados coincidan.",
+    "recomienda contratar una asesoría externa para que identifique el problema."
+   ],
+   "clave": 0,
+   "just": "Aplicar conocimiento profesional para resolver problemas complejos con método es la conducta esperada. B no analiza la causa; C delega sin aportar.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CN1-03",
+   "comp": "CN",
+   "ind": "CN1",
+   "eje": "Aporte técnico-profesional – asesoría",
+   "enunciado": "Un líder de proceso sin formación técnica le pide ayuda para formular indicadores, pero propone uno que no mide el resultado del proceso. Usted",
+   "opciones": [
+    "le explica con claridad por qué el indicador no mide el resultado, propone alternativas y lo acompaña a elegir el más adecuado.",
+    "formula los indicadores directamente para ahorrar tiempo.",
+    "acepta el indicador propuesto, pues el líder es quien conoce su proceso."
+   ],
+   "clave": 0,
+   "just": "Asesorar con criterio técnico y transferir conocimiento es aporte técnico-profesional. B no fortalece al líder; C omite el aporte técnico.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CN1-04",
+   "comp": "CN",
+   "ind": "CN1",
+   "eje": "Aporte técnico-profesional – actualización técnica",
+   "enunciado": "Usted identifica que un método utilizado en la entidad quedó desactualizado frente a una nueva versión de la norma técnica internacional. Usted",
+   "opciones": [
+    "elabora un análisis de brechas con el impacto del cambio y propone un plan de actualización a la instancia responsable.",
+    "actualiza el método directamente en el documento del proceso.",
+    "espera a que la norma sea adoptada oficialmente en el país."
+   ],
+   "clave": 0,
+   "just": "Anticipar cambios técnicos y proponer soluciones fundamentadas aporta valor profesional. B omite el control de cambios; C es pasivo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "CN1-05",
+   "comp": "CN",
+   "ind": "CN1",
+   "eje": "Aporte técnico-profesional – decisiones basadas en evidencia",
+   "enunciado": "La dirección debe decidir entre dos proveedores de calibración y le pide su opinión. Usted",
+   "opciones": [
+    "compara alcance de acreditación, incertidumbres, tiempos, costos y desempeño histórico, y presenta una recomendación con sus fundamentos.",
+    "recomienda al proveedor que ha trabajado antes con la entidad, por la confianza generada.",
+    "recomienda al de menor precio, porque ambos son acreditados."
+   ],
+   "clave": 0,
+   "just": "Recomendar con base en evidencia y criterios técnicos completos es la conducta esperada. B y C se basan en un solo criterio.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI1-01",
+   "comp": "VI",
+   "ind": "VI1",
+   "eje": "Honestidad – veracidad de la información",
+   "enunciado": "Al consolidar el informe de gestión, usted advierte que el indicador de su seccional no cumplió la meta y su jefe sugiere 'redondear' las cifras para no afectar la evaluación de la regional. Frente a esta sugerencia, el servidor actúa con integridad cuando",
+   "opciones": [
+    "reporta las cifras reales, explica las causas del incumplimiento y propone acciones de mejora.",
+    "ajusta levemente las cifras, ya que la diferencia no altera la realidad de la gestión.",
+    "reporta las cifras reales solo si el ente de control las solicita directamente."
+   ],
+   "clave": 0,
+   "just": "La honestidad exige actuar con transparencia y veracidad. B falsea información; C condiciona la verdad a una verificación externa.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI1-02",
+   "comp": "VI",
+   "ind": "VI1",
+   "eje": "Honestidad – reconocimiento de errores",
+   "enunciado": "Usted descubre que un informe que firmó la semana pasada contiene un error en un dato relevante, y nadie lo ha notado. La actuación íntegra consiste en",
+   "opciones": [
+    "esperar a ver si alguien lo detecta y entonces corregirlo.",
+    "informar el error a su superior y a quien recibió el informe, y tramitar la corrección según el procedimiento.",
+    "corregir el archivo interno sin informar a nadie para no generar alarma."
+   ],
+   "clave": 1,
+   "just": "Reconocer y corregir abiertamente los errores es expresión de honestidad. A y C ocultan el error a quienes lo usan.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI1-03",
+   "comp": "VI",
+   "ind": "VI1",
+   "eje": "Honestidad – uso de recursos",
+   "enunciado": "Durante una comisión de servicios, un compañero le propone reportar un día adicional de viáticos argumentando que 'todos lo hacen'. Frente a esta propuesta, el servidor íntegro",
+   "opciones": [
+    "acepta, pues el valor es pequeño y compensa los gastos no reconocidos.",
+    "rechaza la propuesta, reporta los días reales de la comisión y le recuerda al compañero que los recursos son públicos.",
+    "rechaza la propuesta para sí, pero no comenta nada sobre el reporte del compañero."
+   ],
+   "clave": 1,
+   "just": "La honestidad implica usar con rectitud los recursos públicos y no ser cómplice. A se apropia de recursos; C guarda silencio ante una conducta irregular.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI1-04",
+   "comp": "VI",
+   "ind": "VI1",
+   "eje": "Honestidad – información de la hoja de vida",
+   "enunciado": "Al actualizar su hoja de vida en el sistema, usted nota que podría registrar como experiencia profesional un tiempo en que realizó funciones de apoyo, lo que le daría más puntaje en un proceso interno. La conducta íntegra es",
+   "opciones": [
+    "registrar la experiencia tal como fue, aunque obtenga menor puntaje.",
+    "registrarla como profesional, porque las funciones fueron similares.",
+    "registrarla como profesional y aclararlo solo si se lo preguntan."
+   ],
+   "clave": 0,
+   "just": "La honestidad exige veracidad en la información que se suministra a la entidad. B y C presentan información inexacta para obtener ventaja.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI2-01",
+   "comp": "VI",
+   "ind": "VI2",
+   "eje": "Respeto – trato digno",
+   "enunciado": "Un usuario se dirige a usted con gritos y expresiones ofensivas porque su trámite se demoró. Actuando con respeto, el servidor",
+   "opciones": [
+    "le responde con firmeza en el mismo tono para que entienda que debe calmarse.",
+    "mantiene un trato cortés, escucha su inconformidad, le explica la situación y, si persiste la agresión, solicita apoyo según el protocolo.",
+    "se retira del puesto de atención hasta que el usuario se tranquilice."
+   ],
+   "clave": 1,
+   "just": "El respeto implica reconocer la dignidad de las personas aun en situaciones difíciles, sin renunciar a los protocolos. A responde con agresión; C abandona la atención.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI2-02",
+   "comp": "VI",
+   "ind": "VI2",
+   "eje": "Respeto – diversidad",
+   "enunciado": "En su equipo, algunos compañeros hacen bromas recurrentes sobre el acento y la región de origen de una nueva colega. Frente a esta situación, el servidor íntegro",
+   "opciones": [
+    "se mantiene al margen, pues las bromas no van dirigidas a usted.",
+    "manifiesta que esos comentarios no son aceptables, respalda a la colega y, si persisten, lo informa por los canales institucionales.",
+    "le aconseja a la colega que no se lo tome personal, porque es parte del ambiente del equipo."
+   ],
+   "clave": 1,
+   "just": "El respeto exige trato digno sin discriminación y actuar frente a conductas que lo vulneran. A y C toleran la conducta.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI2-03",
+   "comp": "VI",
+   "ind": "VI2",
+   "eje": "Respeto – confidencialidad de las personas",
+   "enunciado": "Un compañero le muestra fotografías de un caso forense que tiene en su celular y le propone compartirlas en un grupo de chat del área 'como caso académico'. El servidor que actúa con respeto",
+   "opciones": [
+    "acepta, siempre que no se publiquen los nombres de las personas.",
+    "se niega, le recuerda que esa información es reservada y que vulnera la dignidad de las personas, y le pide eliminarla de su dispositivo personal.",
+    "sugiere compartirlas solo con los compañeros más cercanos."
+   ],
+   "clave": 1,
+   "just": "Respetar la dignidad de víctimas y usuarios incluye proteger su información. A y C difunden información reservada y sensible.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI2-04",
+   "comp": "VI",
+   "ind": "VI2",
+   "eje": "Respeto – diferencias de opinión",
+   "enunciado": "En una reunión de comité, una auxiliar presenta una propuesta que algunos profesionales descalifican por su cargo, sin analizarla. Usted, que integra el comité,",
+   "opciones": [
+    "guarda silencio, ya que la decisión es colegiada.",
+    "pide que la propuesta se analice por su contenido y valora el aporte de la auxiliar, independientemente de su cargo.",
+    "apoya la descalificación, ya que la propuesta debió pasar primero por un profesional."
+   ],
+   "clave": 1,
+   "just": "El respeto reconoce el valor de los aportes de todas las personas sin importar su cargo. A tolera el trato excluyente; C lo refuerza.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI3-01",
+   "comp": "VI",
+   "ind": "VI3",
+   "eje": "Compromiso – servicio público",
+   "enunciado": "Faltando diez minutos para terminar la jornada, llega una persona que viajó desde un municipio lejano para entregar un documento que vence ese día. Actuando con compromiso, el servidor",
+   "opciones": [
+    "le indica que el horario de atención terminó y que regrese al día siguiente.",
+    "recibe el documento, verifica que esté completo y lo radica, pues comprende la situación del usuario y la importancia del trámite.",
+    "recibe el documento sin radicarlo, para tramitarlo al día siguiente."
+   ],
+   "clave": 1,
+   "just": "El compromiso implica ir más allá del mínimo para atender las necesidades de las personas con las que se relaciona en su labor. A ignora la situación; C genera un riesgo para el usuario.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI3-02",
+   "comp": "VI",
+   "ind": "VI3",
+   "eje": "Compromiso – responsabilidad con el rol",
+   "enunciado": "Usted es el único profesional con conocimiento de un procedimiento crítico y le ofrecen otro cargo dentro de la entidad. Antes de trasladarse, la actuación comprometida es",
+   "opciones": [
+    "documentar el procedimiento y entrenar a quien lo reemplazará para garantizar la continuidad del servicio.",
+    "trasladarse inmediatamente, pues la continuidad es responsabilidad del jefe.",
+    "dejar sus datos de contacto para resolver dudas cuando lo llamen."
+   ],
+   "clave": 0,
+   "just": "El compromiso implica asegurar la continuidad del servicio a la ciudadanía. B se desentiende; C es una medida insuficiente.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI3-03",
+   "comp": "VI",
+   "ind": "VI3",
+   "eje": "Compromiso – conciencia de la importancia del rol",
+   "enunciado": "Un compañero comenta que su trabajo en el archivo de casos 'no tiene importancia' y lo realiza con descuido. Desde el valor del compromiso, usted le haría ver que",
+   "opciones": [
+    "cada actividad, incluido el archivo, contribuye a que la justicia cuente con información confiable y oportuna, y por eso merece cuidado.",
+    "debe esforzarse más para que lo trasladen a un cargo de mayor importancia.",
+    "el descuido solo es grave si genera hallazgos de auditoría."
+   ],
+   "clave": 0,
+   "just": "El compromiso implica ser consciente de la importancia del propio rol como servidor público. B y C desvían el sentido del valor.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI3-04",
+   "comp": "VI",
+   "ind": "VI3",
+   "eje": "Compromiso – disposición",
+   "enunciado": "Ante una emergencia con múltiples víctimas, la dirección solicita voluntarios para apoyar labores de identificación durante el fin de semana. Usted, que tiene la formación requerida,",
+   "opciones": [
+    "se ofrece a apoyar, coordinando con su familia y su jefe, porque comprende la importancia del servicio para las víctimas.",
+    "espera a ser designado formalmente para participar.",
+    "manifiesta que solo apoyará si se reconoce compensatorio por cada hora."
+   ],
+   "clave": 0,
+   "just": "El compromiso se refleja en la disposición a servir cuando la ciudadanía lo necesita. B es pasivo; C condiciona el servicio.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI4-01",
+   "comp": "VI",
+   "ind": "VI4",
+   "eje": "Diligencia – cumplimiento oportuno",
+   "enunciado": "Le asignaron responder un derecho de petición con plazo de diez días, y tiene otras tareas que considera más interesantes. Actuando con diligencia, el servidor",
+   "opciones": [
+    "planifica la respuesta, reúne la información necesaria y responde de fondo dentro del plazo.",
+    "responde el último día con la información que tenga disponible.",
+    "solicita que la petición se reasigne a otra persona con menos carga."
+   ],
+   "clave": 0,
+   "just": "La diligencia implica cumplir con cuidado, calidad y oportunidad. B arriesga la calidad; C evade la responsabilidad.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI4-02",
+   "comp": "VI",
+   "ind": "VI4",
+   "eje": "Diligencia – cuidado de los recursos",
+   "enunciado": "Usted observa que un equipo de medición del laboratorio presenta lecturas inestables, pero aún no ha fallado por completo. El servidor diligente",
+   "opciones": [
+    "lo sigue usando mientras no falle, para no retrasar el trabajo.",
+    "lo retira de servicio, lo identifica como fuera de uso, informa al responsable y verifica si afectó resultados anteriores.",
+    "lo usa solo para análisis que no sean urgentes."
+   ],
+   "clave": 1,
+   "just": "La diligencia implica cuidar los recursos y prevenir errores con oportunidad. A y C ponen en riesgo la validez de los resultados.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI4-03",
+   "comp": "VI",
+   "ind": "VI4",
+   "eje": "Diligencia – calidad del trabajo",
+   "enunciado": "Tiene que entregar un informe técnico al final del día y aún no ha verificado los cálculos. El servidor diligente",
+   "opciones": [
+    "entrega el informe a tiempo y deja la verificación para después.",
+    "organiza su tiempo para verificar los cálculos antes de entregar y, si no es posible, informa y acuerda un plazo breve para entregar un trabajo confiable.",
+    "pide a un compañero que firme como revisor sin revisar, para cumplir el procedimiento."
+   ],
+   "clave": 1,
+   "just": "Ser diligente es cumplir con calidad, eficiencia y oportunidad. A sacrifica la calidad; C falsea el control.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI4-04",
+   "comp": "VI",
+   "ind": "VI4",
+   "eje": "Diligencia – seguimiento",
+   "enunciado": "Envió una solicitud urgente de insumos al área administrativa hace una semana y no ha recibido respuesta. Actuando con diligencia, usted",
+   "opciones": [
+    "espera la respuesta, porque ya cumplió con enviar la solicitud.",
+    "hace seguimiento a la solicitud, verifica su estado y, si es necesario, escala la situación para evitar afectaciones al servicio.",
+    "compra los insumos con recursos propios para no afectar el trabajo."
+   ],
+   "clave": 1,
+   "just": "La diligencia incluye el seguimiento activo de las tareas a cargo. A es pasivo; C omite los procedimientos institucionales.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI5-01",
+   "comp": "VI",
+   "ind": "VI5",
+   "eje": "Justicia – imparcialidad",
+   "enunciado": "Usted debe asignar turnos de vacaciones y un colega con quien tiene una relación de amistad le pide la mejor fecha. El servidor que actúa con justicia",
+   "opciones": [
+    "le asigna la fecha, pues las vacaciones no afectan a los usuarios.",
+    "aplica criterios objetivos y conocidos por todos para asignar los turnos, sin dar preferencia por la amistad.",
+    "le asigna la fecha, pero compensa a los demás con otros beneficios."
+   ],
+   "clave": 1,
+   "just": "La justicia exige actuar con imparcialidad y equidad, aplicando criterios iguales para todos. A y C favorecen al amigo.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI5-02",
+   "comp": "VI",
+   "ind": "VI5",
+   "eje": "Justicia – decisiones fundamentadas",
+   "enunciado": "Debe evaluar el desempeño de dos colaboradores: uno con quien tiene buena relación y resultados regulares, y otro con quien ha tenido diferencias, pero con resultados sobresalientes. Actuando con justicia, usted",
+   "opciones": [
+    "califica a ambos según evidencias de su desempeño, independientemente de la relación personal.",
+    "califica igual a los dos para evitar conflictos en el equipo.",
+    "califica mejor al primero, porque su actitud favorece el ambiente laboral."
+   ],
+   "clave": 0,
+   "just": "La justicia implica decisiones basadas en evidencias y criterios objetivos. B y C distorsionan la evaluación.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI5-03",
+   "comp": "VI",
+   "ind": "VI5",
+   "eje": "Justicia – igualdad de trato",
+   "enunciado": "Llegan a la sede, al mismo tiempo, un abogado reconocido y una persona de escasos recursos con el mismo tipo de trámite. Actuando con justicia, el servidor",
+   "opciones": [
+    "atiende primero al abogado, porque su trámite podría ser más complejo.",
+    "atiende según el orden de llegada y las prioridades legales, brindando el mismo trato y la misma información a ambos.",
+    "atiende primero a la persona de escasos recursos para compensar su situación."
+   ],
+   "clave": 1,
+   "just": "La justicia exige igualdad de trato y la aplicación de criterios previstos en la ley, sin preferencias. A y C introducen criterios personales.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "VI5-04",
+   "comp": "VI",
+   "ind": "VI5",
+   "eje": "Justicia – derecho a ser escuchado",
+   "enunciado": "Un compañero es señalado por otros de haber perdido un documento, y el coordinador le pide a usted una opinión antes de adoptar una medida. Actuando con justicia, usted recomienda",
+   "opciones": [
+    "tomar la medida de inmediato, ya que varios compañeros coinciden en el señalamiento.",
+    "verificar los hechos, escuchar al compañero y decidir con base en las evidencias.",
+    "no hacer nada para no afectar el clima laboral."
+   ],
+   "clave": 1,
+   "just": "La justicia implica decidir con base en hechos verificados y garantizar que la persona sea escuchada. A decide sin pruebas; C omite la gestión del hecho.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K1-01",
+   "caso": "K1",
+   "comp": "CE",
+   "ind": "CE2",
+   "eje": "Trabajo no conforme",
+   "enunciado": "Respecto al cromatógrafo usado con la calibración vencida, la primera acción que corresponde a la coordinadora es",
+   "opciones": [
+    "evaluar el impacto en los resultados emitidos durante esa semana, retener o recuperar informes si es necesario y notificar a los clientes afectados.",
+    "calibrar el equipo de inmediato y continuar con los análisis pendientes.",
+    "registrar el hecho como observación para la próxima revisión por la dirección."
+   ],
+   "clave": 0,
+   "just": "ISO/IEC 17025 (7.10) exige evaluar el impacto del trabajo no conforme en resultados anteriores y notificar. B corrige sin evaluar; C posterga.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K1-02",
+   "caso": "K1",
+   "comp": "CE",
+   "ind": "CE6",
+   "eje": "Registro de continuidad",
+   "enunciado": "Sobre el vacío en el registro de cadena de custodia, la actuación correcta es",
+   "opciones": [
+    "completar el registro con el nombre de quien estaba de turno ese fin de semana.",
+    "documentar la novedad tal como se encontró, investigar lo ocurrido e informar a la autoridad responsable del caso.",
+    "sustituir el formato por uno nuevo diligenciado de manera completa."
+   ],
+   "clave": 1,
+   "just": "No se pueden reconstruir ni sustituir registros; la novedad se documenta, se investiga y se informa. A y C alteran el registro.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K1-03",
+   "caso": "K1",
+   "comp": "CC",
+   "ind": "CC2",
+   "eje": "Orientación a resultados",
+   "enunciado": "Frente al aumento de la demanda y las quejas, la coordinadora que actúa con orientación a resultados",
+   "opciones": [
+    "solicita más personal y espera a que se asigne antes de modificar el proceso.",
+    "analiza los datos de demanda y errores, redistribuye cargas, refuerza la verificación de datos de identificación y hace seguimiento con indicadores.",
+    "pide a los peritos trabajar horas extra hasta que disminuya la demanda."
+   ],
+   "clave": 1,
+   "just": "Planificar con datos, ajustar el proceso y hacer seguimiento evidencia orientación a resultados. A es pasivo; C es un esfuerzo sin estrategia.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K2-01",
+   "caso": "K2",
+   "comp": "CT",
+   "ind": "CT1",
+   "eje": "Adaptación al cambio",
+   "enunciado": "Ante la resistencia de algunos servidores con amplia experiencia, la acción más adecuada como referente es",
+   "opciones": [
+    "informar al director los nombres de quienes se resisten para que tome medidas.",
+    "explicar los beneficios del sistema, involucrarlos en las pruebas aprovechando su experiencia y acompañarlos durante la transición.",
+    "permitirles seguir usando las hojas de cálculo mientras el resto del equipo usa el sistema."
+   ],
+   "clave": 1,
+   "just": "Facilitar el cambio implica comunicar, involucrar y acompañar. A es punitivo; C perpetúa la resistencia y duplica procesos.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K2-02",
+   "caso": "K2",
+   "comp": "CE",
+   "ind": "CE7",
+   "eje": "Documento electrónico",
+   "enunciado": "Durante la migración de datos desde las hojas de cálculo, el aspecto que más debe cuidarse desde la gestión documental es",
+   "opciones": [
+    "que los registros migrados conserven su integridad, autenticidad y trazabilidad, con verificación de completitud.",
+    "que la migración termine en el menor tiempo posible.",
+    "que se eliminen las hojas de cálculo al finalizar la migración para evitar duplicidad."
+   ],
+   "clave": 0,
+   "just": "La migración debe preservar las características del documento electrónico y verificarse. C elimina soportes sin seguir la TRD.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K2-03",
+   "caso": "K2",
+   "comp": "CC",
+   "ind": "CC3",
+   "eje": "Orientación al usuario",
+   "enunciado": "Durante la transición, varios usuarios reportan que no encuentran el estado de sus solicitudes. Usted",
+   "opciones": [
+    "les pide que esperen a que termine la implementación.",
+    "habilita un canal de consulta temporal, informa con claridad los cambios y verifica que las solicitudes migradas sean consultables.",
+    "les explica que el problema es del proveedor del sistema."
+   ],
+   "clave": 1,
+   "just": "Mantener la atención al usuario con alternativas e información clara es la conducta esperada. A y C trasladan el problema al usuario.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K3-01",
+   "caso": "K3",
+   "comp": "CE",
+   "ind": "CE5",
+   "eje": "Tipología de controles",
+   "enunciado": "De los tres controles descritos, el que tiene naturaleza detectiva es",
+   "opciones": [
+    "la verificación de rótulos al recibir.",
+    "el registro en el sistema de custodia.",
+    "la revisión mensual del inventario por el coordinador."
+   ],
+   "clave": 2,
+   "just": "La revisión periódica del inventario detecta desviaciones después de ocurridas; la verificación al recibir y el registro operan de forma preventiva.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K3-02",
+   "caso": "K3",
+   "comp": "CE",
+   "ind": "CE5",
+   "eje": "Materialización del riesgo",
+   "enunciado": "Teniendo en cuenta el elemento extraviado que luego apareció en un lugar equivocado, lo procedente es",
+   "opciones": [
+    "no reportarlo, porque el elemento fue encontrado y no hubo pérdida definitiva.",
+    "reportarlo como evento, analizar por qué fallaron los controles, ajustarlos y actualizar la valoración del riesgo.",
+    "eliminar el riesgo del mapa, porque quedó demostrado que los elementos se recuperan."
+   ],
+   "clave": 1,
+   "just": "Un evento de pérdida temporal evidencia fallas en los controles; debe reportarse y analizarse. A y C ocultan información sobre la eficacia de los controles.",
+   "fuente": "Banco base (preguntas originales)"
+  },
+  {
+   "id": "K3-03",
+   "caso": "K3",
+   "comp": "VI",
+   "ind": "VI1",
+   "eje": "Honestidad",
+   "enunciado": "El técnico que ubicó mal el elemento le pide a usted no mencionar su nombre en el reporte. Actuando con integridad, usted",
+   "opciones": [
+    "omite el nombre para protegerlo, ya que el elemento apareció.",
+    "reporta los hechos tal como ocurrieron, con objetividad, y le sugiere al técnico explicar lo sucedido en el análisis de causas.",
+    "reporta que el responsable no pudo ser identificado."
+   ],
+   "clave": 1,
+   "just": "La honestidad exige reportar con veracidad; el análisis busca causas, no culpables. A y C falsean la información.",
+   "fuente": "Banco base (preguntas originales)"
+  }
+ ],
+ "casos": [
+  {
+   "id": "K1",
+   "titulo": "Caso 1 – Laboratorio de toxicología regional",
+   "contexto": "El laboratorio de toxicología de una dirección regional atiende solicitudes de fiscales de cuatro departamentos. En el último semestre aumentó 30 % la demanda y se presentaron dos quejas por informes con datos de identificación incompletos. Además, en una verificación interna se encontró que un cromatógrafo se usó durante una semana con la calibración vencida, y que el registro de cadena de custodia de un elemento no indica quién lo custodió durante un fin de semana. La coordinadora debe preparar un plan de acción antes de la visita de seguimiento del organismo de acreditación."
+  },
+  {
+   "id": "K2",
+   "titulo": "Caso 2 – Implementación de un nuevo sistema de información",
+   "contexto": "La dirección regional implementará en tres meses un sistema de información para registrar solicitudes, informes y PQRSD, en reemplazo de hojas de cálculo. Algunos servidores con muchos años en la entidad manifiestan resistencia; otros temen que el cambio afecte sus indicadores. Usted fue designado como referente del proyecto en su seccional y debe coordinar la capacitación, la migración de datos y la atención a usuarios durante la transición."
+  },
+  {
+   "id": "K3",
+   "titulo": "Caso 3 – Gestión de riesgos en la recepción de evidencias",
+   "contexto": "En el mapa de riesgos de la regional se identificó el riesgo 'Posibilidad de pérdida o alteración de elementos materiales probatorios durante su recepción y almacenamiento'. La valoración inherente quedó en zona alta. Existen tres controles: verificación de rótulos al recibir, registro en el sistema de custodia y revisión mensual del inventario por el coordinador. En el último cuatrimestre se reportó un elemento extraviado que luego apareció en un estante equivocado."
+  }
+ ]
+}
