@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0f2a4a"/>
+  <g transform="translate(256 262) scale(0.74) translate(-256 -262)">
+  <g fill="none" stroke="#e0a845" stroke-linecap="round" stroke-linejoin="round">
+    <!-- columna y base -->
+    <path d="M256 128 V392" stroke-width="22"/>
+    <path d="M176 404 H336" stroke-width="24"/>
+    <path d="M206 392 Q256 360 306 392" stroke-width="16"/>
+    <!-- brazo -->
+    <path d="M120 170 Q256 140 392 170" stroke-width="18"/>
+    <!-- cuerdas -->
+    <path d="M120 170 L78 292 M120 170 L162 292" stroke-width="7"/>
+    <path d="M392 170 L350 292 M392 170 L434 292" stroke-width="7"/>
+  </g>
+  <g fill="#e0a845">
+    <circle cx="256" cy="118" r="22"/>
+    <!-- platillos -->
+    <path d="M66 290 H174 A54 46 0 0 1 66 290 Z"/>
+    <path d="M338 290 H446 A54 46 0 0 1 338 290 Z"/>
+  </g>
+  </g>
+</svg>
